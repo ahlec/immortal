@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <line stroke="black" stroke-width="2" x1="77" x2="77" y1="40" y2="353"/>
+   <text text-anchor="middle" y="375" x="365">Chapter</text>
+   <line stroke="black" stroke-width="2" x1="77" x2="650" y1="353" y2="353"/>
+   <text y="290" x="30" transform="rotate(-90, 30, 290)">Number of Spelling Mistakes</text>
+   <text y="350" x="70" transform="rotate(-180, 70, 350)">- 0</text>
+   <text y="54" x="45">70 -</text>
+   <line stroke="black" stroke-width="1" stroke-dasharray="3 3" x1="77" x2="650" y1="50" y2="50"/>
+   <text y="204" x="45">35 -</text>
+   <line stroke="black" stroke-width="1" stroke-dasharray="3 3" x1="77" x2="650" y1="200" y2="200"/>
+   <line stroke="black" stroke-width="1" stroke-dasharray="3 3" x1="77" x2="650" y1="125" y2="125"/>
+   <line stroke="black" stroke-width="1" stroke-dasharray="3 3" x1="77" x2="650" y1="275" y2="275"/>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-1/', '_self')" fill="black" x="80" y="324.2857142857143" width="12.954545454545455" height="25.714285714285715" stroke="white" stroke-width="1">
+      <title>Chapter 1</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-2/', '_self')" fill="black" x="92.95454545454545" y="328.57142857142856" width="12.954545454545455" height="21.428571428571427" stroke="white" stroke-width="1">
+      <title>Chapter 2</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-3/', '_self')" fill="black" x="105.9090909090909" y="302.8571428571429" width="12.954545454545455" height="47.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 3</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-4/', '_self')" fill="black" x="118.86363636363636" y="307.14285714285717" width="12.954545454545455" height="42.857142857142854" stroke="white" stroke-width="1">
+      <title>Chapter 4</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-5/', '_self')" fill="black" x="131.8181818181818" y="298.57142857142856" width="12.954545454545455" height="51.42857142857143" stroke="white" stroke-width="1">
+      <title>Chapter 5</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-6/', '_self')" fill="black" x="144.77272727272725" y="345.7142857142857" width="12.954545454545455" height="4.285714285714286" stroke="white" stroke-width="1">
+      <title>Chapter 6</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-7/', '_self')" fill="black" x="157.72727272727272" y="290" width="12.954545454545455" height="60" stroke="white" stroke-width="1">
+      <title>Chapter 7</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-8/', '_self')" fill="black" x="170.6818181818182" y="341.42857142857144" width="12.954545454545455" height="8.571428571428571" stroke="white" stroke-width="1">
+      <title>Chapter 8</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-9/', '_self')" fill="black" x="183.63636363636363" y="294.2857142857143" width="12.954545454545455" height="55.714285714285715" stroke="white" stroke-width="1">
+      <title>Chapter 9</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-10/', '_self')" fill="black" x="196.5909090909091" y="302.8571428571429" width="12.954545454545455" height="47.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 10</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-11/', '_self')" fill="black" x="209.54545454545453" y="294.2857142857143" width="12.954545454545455" height="55.714285714285715" stroke="white" stroke-width="1">
+      <title>Chapter 11</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-12/', '_self')" fill="black" x="222.5" y="204.28571428571428" width="12.954545454545455" height="145.71428571428572" stroke="white" stroke-width="1">
+      <title>Chapter 12</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-13/', '_self')" fill="black" x="235.45454545454544" y="324.2857142857143" width="12.954545454545455" height="25.714285714285715" stroke="white" stroke-width="1">
+      <title>Chapter 13</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-14/', '_self')" fill="black" x="248.4090909090909" y="281.42857142857144" width="12.954545454545455" height="68.57142857142857" stroke="white" stroke-width="1">
+      <title>Chapter 14</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-15/', '_self')" fill="black" x="261.3636363636364" y="264.2857142857143" width="12.954545454545455" height="85.71428571428571" stroke="white" stroke-width="1">
+      <title>Chapter 15</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-16/', '_self')" fill="black" x="274.3181818181818" y="62.85714285714283" width="12.954545454545455" height="287.14285714285717" stroke="white" stroke-width="1">
+      <title>Chapter 16</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-17/', '_self')" fill="black" x="287.27272727272725" y="110" width="12.954545454545455" height="240" stroke="white" stroke-width="1">
+      <title>Chapter 17</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-18/', '_self')" fill="black" x="300.22727272727275" y="234.28571428571428" width="12.954545454545455" height="115.71428571428572" stroke="white" stroke-width="1">
+      <title>Chapter 18</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-19/', '_self')" fill="black" x="313.1818181818182" y="230" width="12.954545454545455" height="120" stroke="white" stroke-width="1">
+      <title>Chapter 19</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-20/', '_self')" fill="black" x="326.1363636363636" y="80" width="12.954545454545455" height="270" stroke="white" stroke-width="1">
+      <title>Chapter 20</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-21/', '_self')" fill="black" x="339.09090909090907" y="178.57142857142858" width="12.954545454545455" height="171.42857142857142" stroke="white" stroke-width="1">
+      <title>Chapter 21</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-22/', '_self')" fill="black" x="352.04545454545456" y="307.14285714285717" width="12.954545454545455" height="42.857142857142854" stroke="white" stroke-width="1">
+      <title>Chapter 22</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-23/', '_self')" fill="black" x="365" y="255.71428571428572" width="12.954545454545455" height="94.28571428571428" stroke="white" stroke-width="1">
+      <title>Chapter 23</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-24/', '_self')" fill="black" x="377.95454545454544" y="272.8571428571429" width="12.954545454545455" height="77.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 24</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-25/', '_self')" fill="black" x="390.9090909090909" y="320" width="12.954545454545455" height="30" stroke="white" stroke-width="1">
+      <title>Chapter 25</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-26/', '_self')" fill="black" x="403.8636363636364" y="285.7142857142857" width="12.954545454545455" height="64.28571428571428" stroke="white" stroke-width="1">
+      <title>Chapter 26</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-27/', '_self')" fill="black" x="416.8181818181818" y="191.42857142857142" width="12.954545454545455" height="158.57142857142858" stroke="white" stroke-width="1">
+      <title>Chapter 27</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-28/', '_self')" fill="black" x="429.77272727272725" y="255.71428571428572" width="12.954545454545455" height="94.28571428571428" stroke="white" stroke-width="1">
+      <title>Chapter 28</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-29/', '_self')" fill="black" x="442.72727272727275" y="195.71428571428572" width="12.954545454545455" height="154.28571428571428" stroke="white" stroke-width="1">
+      <title>Chapter 29</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-30/', '_self')" fill="black" x="455.6818181818182" y="182.85714285714286" width="12.954545454545455" height="167.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 30</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-31/', '_self')" fill="black" x="468.6363636363636" y="212.85714285714286" width="12.954545454545455" height="137.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 31</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-32/', '_self')" fill="black" x="481.5909090909091" y="178.57142857142858" width="12.954545454545455" height="171.42857142857142" stroke="white" stroke-width="1">
+      <title>Chapter 32</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-33/', '_self')" fill="black" x="494.54545454545456" y="71.42857142857144" width="12.954545454545455" height="278.57142857142856" stroke="white" stroke-width="1">
+      <title>Chapter 33</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-34/', '_self')" fill="black" x="507.5" y="152.85714285714286" width="12.954545454545455" height="197.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 34</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-35/', '_self')" fill="black" x="520.4545454545455" y="114.28571428571428" width="12.954545454545455" height="235.71428571428572" stroke="white" stroke-width="1">
+      <title>Chapter 35</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-36/', '_self')" fill="black" x="533.4090909090909" y="152.85714285714286" width="12.954545454545455" height="197.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 36</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-37/', '_self')" fill="black" x="546.3636363636364" y="122.85714285714286" width="12.954545454545455" height="227.14285714285714" stroke="white" stroke-width="1">
+      <title>Chapter 37</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-38/', '_self')" fill="black" x="559.3181818181818" y="7.142857142857167" width="12.954545454545455" height="342.85714285714283" stroke="white" stroke-width="1">
+      <title>Chapter 38</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-39/', '_self')" fill="black" x="572.2727272727273" y="350" width="12.954545454545455" height="0" stroke="white" stroke-width="1">
+      <title>Chapter 39</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-40/', '_self')" fill="black" x="585.2272727272727" y="350" width="12.954545454545455" height="0" stroke="white" stroke-width="1">
+      <title>Chapter 40</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-41/', '_self')" fill="black" x="598.1818181818181" y="350" width="12.954545454545455" height="0" stroke="white" stroke-width="1">
+      <title>Chapter 41</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-42/', '_self')" fill="black" x="611.1363636363636" y="350" width="12.954545454545455" height="0" stroke="white" stroke-width="1">
+      <title>Chapter 42</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-43/', '_self')" fill="black" x="624.0909090909091" y="350" width="12.954545454545455" height="0" stroke="white" stroke-width="1">
+      <title>Chapter 43</title>
+   </rect>
+   <rect onmouseover="this.setAttributeNS(null,'fill','green')" onmouseout="this.setAttributeNS(null,'fill','black')" onclick="window.open('http://imm.dh.obdurodon.org/read/chapter-44/', '_self')" fill="black" x="637.0454545454545" y="350" width="12.954545454545455" height="0" stroke="white" stroke-width="1">
+      <title>Chapter 44</title>
+   </rect>
+</svg>

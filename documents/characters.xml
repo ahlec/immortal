@@ -1,0 +1,172 @@
+<characterList>
+   <character handle="enoby" lowerCaseHandle="enoby">
+      <name>Ebony Dark'ness Dementia Raven Way</name>
+      <gender>f</gender>
+   </character>
+   <character handle="draco" lowerCaseHandle="draco">
+      <name>Draco Malfoy</name>
+      <gender>m</gender>
+      <potterCharacter>Draco Malfoy</potterCharacter>
+   </character>
+   <character handle="willow" lowerCaseHandle="willow">
+      <name>Willow</name>
+      <gender>f</gender>
+   </character>
+   <character handle="vampire" lowerCaseHandle="vampire">
+      <name>Vampire Potter</name>
+      <gender>m</gender>
+      <potterCharacter>Harry Potter</potterCharacter>
+   </character>
+   <character handle="loopin" lowerCaseHandle="loopin">
+      <name>Loopin</name>
+      <gender>m</gender>
+      <potterCharacter>Remus Lupin</potterCharacter>
+   </character>
+   <character handle="diabolo" lowerCaseHandle="diabolo">
+      <name>Diabolo Weasley</name>
+      <gender>m</gender>
+      <potterCharacter>Ron Weasley</potterCharacter>
+   </character>
+   <character handle="dumblydore" lowerCaseHandle="dumblydore">
+      <name>Albert Dumblydore</name>
+      <gender>m</gender>
+      <potterCharacter>Albus Dumbledore</potterCharacter>
+   </character>
+   <character handle="mcgoogle" lowerCaseHandle="mcgoogle">
+      <name>Professor McGoggle</name>
+      <gender>f</gender>
+      <potterCharacter>Minerva McGonagall</potterCharacter>
+   </character>
+   <character handle="cornelia" lowerCaseHandle="cornelia">
+      <name>Cornelia Fudge</name>
+      <gender>f</gender>
+      <potterCharacter>Cornelius Fudge</potterCharacter>
+   </character>
+   <character handle="hargrid" lowerCaseHandle="hargrid">
+      <name>Hargrid</name>
+      <gender>m</gender>
+      <potterCharacter>Rubeus Hagrid</potterCharacter>
+   </character>
+   <character handle="mcfly" lowerCaseHandle="mcfly">
+      <name>Morty McFly</name>
+      <gender>m</gender>
+   </character>
+   <character handle="hedwig" lowerCaseHandle="hedwig">
+      <name>Hedwig</name>
+      <gender>m</gender>
+      <potterCharacter>Hedwig</potterCharacter>
+   </character>
+   <character handle="satan" lowerCaseHandle="satan">
+      <name>Tom Satan Bombadil</name>
+      <gender>m</gender>
+      <potterCharacter>Tom Marvolo Riddle</potterCharacter>
+   </character>
+   <character handle="snaketail" lowerCaseHandle="snaketail">
+      <name>Snaketail</name>
+      <gender>m</gender>
+      <potterCharacter>Peter Pettigrew</potterCharacter>
+   </character>
+   <character handle="britney" lowerCaseHandle="britney">
+      <name>Britney (Spears?)</name>
+      <gender>f</gender>
+   </character>
+   <character handle="snap" lowerCaseHandle="snap">
+      <name>Snap</name>
+      <gender>m</gender>
+      <potterCharacter>Severus Snape</potterCharacter>
+   </character>
+   <character handle="tomrid" lowerCaseHandle="tomrid">
+      <name>Tom Rid</name>
+      <gender>m</gender>
+      <potterCharacter>Tom Marvolo Riddle</potterCharacter>
+   </character>
+   <character handle="vloxemort" lowerCaseHandle="vloxemort">
+      <name>Volxemort</name>
+      <gender>m</gender>
+      <potterCharacter>Lord Voldemort</potterCharacter>
+   </character>
+   <character handle="sodomize" lowerCaseHandle="sodomize">
+      <name>Serious (Sodomize) Blak</name>
+      <gender>f</gender>
+   </character>
+   <character handle="samaro" lowerCaseHandle="samaro">
+      <name>Samaro Potter</name>
+      <gender>m</gender>
+      <potterCharacter>James Potter</potterCharacter>
+   </character>
+   <character handle="crab" lowerCaseHandle="crab">
+      <name>Crab Weasley</name>
+      <gender>m</gender>
+      <potterCharacter>Vincent Crabe</potterCharacter>
+   </character>
+   <character handle="goyle" lowerCaseHandle="goyle">
+      <name>Goyle Weasley</name>
+      <gender>m</gender>
+      <potterCharacter>Gregory Goyle</potterCharacter>
+   </character>
+   <character handle="bloody" lowerCaseHandle="bloody">
+      <name>B'loody Mary Smith</name>
+      <gender>f</gender>
+      <potterCharacter>Hermione Granger</potterCharacter>
+   </character>
+   <character handle="lucian" lowerCaseHandle="lucian">
+      <name>Lucian</name>
+      <gender>m</gender>
+      <potterCharacter>Lucius Malfoy</potterCharacter>
+   </character>
+   <character handle="darkness" lowerCaseHandle="darkness">
+      <name>Jenny Darkness Weasley</name>
+      <gender>f</gender>
+      <potterCharacter>Ginny Weasley</potterCharacter>
+   </character>
+   <character handle="dracula" lowerCaseHandle="dracula">
+      <name>Navel Dracula Longbottom</name>
+      <gender>m</gender>
+      <potterCharacter>Neville Longbottom</potterCharacter>
+   </character>
+   <character handle="dobby" lowerCaseHandle="dobby">
+      <name>Dobby</name>
+      <gender>m</gender>
+      <potterCharacter>Dobby</potterCharacter>
+   </character>
+   <character handle="slutborn" lowerCaseHandle="slutborn">
+      <name>Professor Slutborn</name>
+      <gender>m</gender>
+      <potterCharacter>Horace Slughorn</potterCharacter>
+   </character>
+   <character handle="rumbridge" lowerCaseHandle="rumbridge">
+      <name>Doris Rumbridge</name>
+      <gender>f</gender>
+      <potterCharacter>Dolores Umbridge</potterCharacter>
+   </character>
+   <character handle="sinister" lowerCaseHandle="sinister">
+      <name>Professor Sinister</name>
+      <gender>f</gender>
+      <potterCharacter>Aurora Sinistra</potterCharacter>
+   </character>
+   <character handle="trevolry" lowerCaseHandle="trevolry">
+      <name>Professor Trevolry</name>
+      <gender>f</gender>
+      <potterCharacter>Sybill Trelawney</potterCharacter>
+   </character>
+   <character handle="norris" lowerCaseHandle="norris">
+      <name>Mr. Norris</name>
+      <gender>m</gender>
+      <potterCharacter>Argus Filch</potterCharacter>
+   </character>
+   <character handle="filth" lowerCaseHandle="filth">
+      <name>Filth</name>
+      <gender>f</gender>
+      <potterCharacter>Mrs. Norris</potterCharacter>
+   </character>
+   <character handle="deathDealers" lowerCaseHandle="deathdealers">
+      <name>Death Dealers</name>
+      <gender/>
+      <potterCharacter>Death Eaters</potterCharacter>
+   </character>
+   <character handle="mrWeasley" lowerCaseHandle="mrweasley">
+      <name>Mr. Weasley</name>
+      <gender>m</gender>
+      <potterCharacter>Mr. Weasley</potterCharacter>
+   </character>
+</characterList>

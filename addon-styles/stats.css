@@ -1,0 +1,25 @@
+a.statLink
+{
+  display:block;
+  text-indent:-10px;
+  margin-left:20px;
+  color:#00bfff;
+}
+a.statLink.current
+{
+  color:white;
+  font-weight:bold;
+}
+div.statsSpGridOption
+{
+  width:125px;
+  float:left;
+  margin:2px;
+  border-radius:5px;
+}
+input.chapterSelectBox
+{
+  float:left;
+  clear:left;
+  display:block;
+}

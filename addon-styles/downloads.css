@@ -1,0 +1,23 @@
+div.downloadListEntry
+{
+  margin-left:20px;
+  font-size:90%;
+  min-height:16px;
+}
+div.downloadListEntry a
+{
+  padding-left:18px;
+  background:url("../images/file_bullet.png") no-repeat 0px 2px;
+  color:#00bfff;
+}
+div.downloadListEntry a:hover
+{
+  color:white;
+  background-position:2px 2px;
+  background-image:url("../images/file_bullet_hover.png");
+}
+div.downloadListEntry span
+{
+  color:#999;
+  font-size:90%;
+}

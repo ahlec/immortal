@@ -1,0 +1,37 @@
+<userList>
+  <user>
+    <firstName>Jacob</firstName>
+    <lastName>Deitloff</lastName>
+    <handle>jacob</handle>
+    <email>jbd19@pitt.edu</email>
+    <image>/images/jacob.png</image>
+    <majors>
+	<major>Computer Science</major>
+	<major>German</major>
+    </majors>
+    <password>7b34a834a7e27eff38345ca46b99bbbe</password>
+  </user>
+  <user>
+    <firstName>Eric</firstName>
+    <lastName>Gratta</lastName>
+    <handle>eric</handle>
+    <email>eag55@pitt.edu</email>
+    <image>/images/eric.png</image>
+    <majors>
+	<major>Computer Science</major>
+	<major>Music</major>
+    </majors>
+    <password>58fd9edd83341c29f1aebba81c31e257</password>
+  </user>
+  <user>
+    <firstName>Janis</firstName>
+    <lastName>Chinn</lastName>
+    <handle>janis</handle>
+    <email>janis.chinn@gmail.com</email>
+    <image>/images/janis.png</image>
+    <majors>
+	<major>Linguistics</major>
+    </majors>
+    <password>03ca40f083f41cb4354678372c8480cc</password>
+  </user>
+</userList>

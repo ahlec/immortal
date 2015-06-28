@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammarTypes>
+    <type color="red">apostrophe</type>
+    <type color="orange">caps</type>
+    <type color="yellow">derivation</type>
+    <type color="green">inflection</type>
+    <type color="blue">punctuation</type>
+    <type color="purple">stylistic</type>
+    <type color="grey">subjunctive</type>
+</grammarTypes>

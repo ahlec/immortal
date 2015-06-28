@@ -1,0 +1,58 @@
+<p id="top">Within our markup, special attention was given to the variety of mistakes made in spelling and grammar. To categorize these, we isolated these varieties to specific types whose names have linguistic origins but are rather loosely applied. The following is a key to help users understand what these categories mean.<p>
+
+<a href="#spelling">Spelling Error Types</a><br/>
+<a href="#grammar">Grammatical Error Types</a>
+
+<h3 id="spelling">Spelling Error Types</h3>
+<p>There are 14 different spelling type errors, each subjectively applied. Sometimes a word can exhibit more than one type at once.</p>
+<dl>
+<dt>Apheresis<dt>
+<dd>The omission of a letter from the beginning of the word. (For example: 'nd' instead of 'and')</dd>
+<dt>Apocope</dt>
+<dd>The omission of a letter from the end of the word. (For example: 'wer' instead of 'were', 'of' instead of 'off')</dd>
+<dt>Canon</dt>
+<dd>The use of a characters <emph>canon</emph> (official) name as opposed to their established name within "My Immortal". (For example: Referring to B'loody as Hermione, or Doris as Dolores)</dd>
+<dt>Chatspeak</dt>
+<dd>The use of shortened word forms commonly found online or in SMS text messages to save time or characters. (For example: brb, ne1, u, cuz)</dd>
+<dt>Epenthesis</dt>
+<dd>The insertion of extraneous letters to a word. (For example: 'Hargrid' instead of 'Hagrid')</dd>
+<dt>Goffik</dt>
+<dd>The use of unique word forms meant to identify the author as gothic. (For example: Fangs, goffik, geddit, skull)</dd>
+<dt>Hyperbole</dt>
+<dd>The elongation of a word by adding letters for emphasis. (For example: hiiiiiiiiii, noooooooooooooo, uggggggghhhhhh, !!!!!!!)</dd>
+<dt>Homophone</dt>
+<dd>The substition of words which sound the same but are spelled differently. (For example: 'their' instead of 'there')</dd>
+<dt>Keyboarding</dt>
+<dd>Errors resulting from typing too quickly or carelessly and hitting nearby keys. (For example: !!!11!, Vloxemort, Evony)</dd>
+<dt>Malaproper</dt>
+<dd>The use of words that may be similar in form or composition, but are completely inappropriate and misused. (For example: 'virility' instead of 'virginity')</dd>
+<dt>Metathesis</dt>
+<dd>The transposition of adjacent letters. (For example: Enoby, reveiws, wnot)</dd>
+<dt>Phonetic</dt>
+<dd>Words which are spelled in a attempt to reflect their pronunciation or which have their vowel sound altered in a way which could be formalized in a phonological rule.</dd>
+<dt>Syncope</dt>
+<dd>The omission of a letter from the middle of a word. (For example: blak, rok, swers)</dd>
+<dt>???</dt>
+<dd>Used for spelling types which we were unable to classify due to their eccentric nature. (For example: 'Trevolry' instead of 'Trelawney', 'flassing' instead of 'flaming', 'McGoogle' or 'McGoggle' instead of 'McGonagall')</dd>
+</dl>
+<a href="#top">Top</a>
+<br/>
+<h3 id="grammar">Grammar Error Types</h3>
+<p>There are 7 grammatical error types, which are more rigidly applied. Again, errors can have more than one type.</p>
+<dl>
+<dt>Apostrophe</dt>
+<dd>The omission of an apostrophe from contractions and possessive forms. (For example: wont, im, Ebonys)</dd>
+<dt>Caps</dt>
+<dd>The lack or overapplication of capitalization, such as at the beginning of a sentence or for names. (For example: draco, AGAIN, aGaIn)</dd>
+<dt>Derivation</dt>
+<dd>The misapplication of <a href="http://en.wikipedia.org/wiki/Derivational_morphology">derivational morphological rules</a> in English. (For example: 'all of a suddenly' instead of 'all of a sudden')<dd>
+<dt>Inflection</dt>
+<dd>The misapplication of <a href="http://en.wikipedia.org/wiki/Inflectional_morphology#Inflectional_morphology">inflectional morphological rules</a> in English. (For example: 'my hair reach my back' instead of 'my hair reaches my back')</dd>
+<dt>Punctuation</dt>
+<dd>The use of incorrect punctuation. (For example: ',' instead of ';' or '.')</dd>
+<dt>Stylistic</dt>
+<dd>Stylistic errors such as using numerals instead of typing out numbers one through ten. (For example: '1' instead of 'one')</dd>
+<dt>Subjunctive</dt>
+<dd>Errors specifically relating to the subjunctive tense. (For example: 'I wish I was' instead of 'I wish I were'.</dd>
+</dl>
+<a href="#top">Top</a>

@@ -1,0 +1,501 @@
+<dialogueList>
+   <character handle="enoby" profilePicture="enoby.png">Ebony Dark'ness Dementia Raven Way</character>
+   <character handle="draco" profilePicture="draco.png">Draco Malfoy</character>
+   <character handle="hargrid" profilePicture="hargrid.png">Hagrid</character>
+   <character handle="vampire" profilePicture="vampire.png">Harry Vampire Potter</character>
+   <character handle="dumblydore" profilePicture="dumblydore.png">Albus Dumbledore</character>
+   <character handle="mcgoogle" profilePicture="mcgoogle.png">Professor McGonagall</character>
+   <character handle="vloxemort" profilePicture="vloxemort.png">Lord Voldemort</character>
+   <character handle="loopin" profilePicture="loopin.png">Lupin</character>
+   <character handle="bloody" profilePicture="bloody.png">B'loody Mary Smith</character>
+   <character handle="snap" profilePicture="snap.png">Professor Snape</character>
+   <dialogue handle="draco" chapter="1" paragraph="2" sentence="1">"Hey Ebony!"</dialogue>
+   <dialogue handle="enoby" chapter="1" paragraph="3" sentence="1">"What's up Draco?"</dialogue>
+   <dialogue handle="enoby" chapter="2" paragraph="4" sentence="1">"Yeah? So?"</dialogue>
+   <dialogue handle="enoby" chapter="2" paragraph="6" sentence="1">"No I so fucking don't!"</dialogue>
+   <dialogue handle="draco" chapter="2" paragraph="11" sentence="1">"Guess what."</dialogue>
+   <dialogue handle="draco" chapter="2" paragraph="13" sentence="1">"Well, Good Charlotte are having a concert in Hogsmeade."</dialogue>
+   <dialogue handle="enoby" chapter="2" paragraph="14" sentence="1">"Oh. My. Fucking. God!"</dialogue>
+   <dialogue handle="draco" chapter="2" paragraph="17" sentence="1">"Well.... do you want to go with me?"</dialogue>
+   <dialogue handle="enoby" chapter="3" paragraph="3" sentence="1">"Hi Draco!"</dialogue>
+   <dialogue handle="draco" chapter="3" paragraph="4" sentence="1">Hi Ebony."</dialogue>
+   <dialogue handle="enoby" chapter="3" paragraph="6" sentence="1">"Joel is so fucking hot."</dialogue>
+   <dialogue handle="enoby" chapter="3" paragraph="8" sentence="1">"What's wrong?"</dialogue>
+   <dialogue handle="enoby" chapter="3" paragraph="9" sentence="1">"Hey, it's ok I don't like him better than YOU!"</dialogue>
+   <dialogue handle="enoby" chapter="3" paragraph="11" sentence="2">"Besides I don't even know Joel and he's going out with Hilary fucking Duff. I fucking hate that little bitch."</dialogue>
+   <dialogue handle="enoby" chapter="4" paragraph="1" sentence="2">"What the fuck do you think you are doing?"</dialogue>
+   <dialogue handle="enoby" chapter="4" paragraph="3" sentence="1">"What the fucking hell?"</dialogue>
+   <dialogue handle="enoby" chapter="4" paragraph="8" sentence="1">"Oh! Oh! Oh!"</dialogue>
+   <dialogue handle="dumblydore" chapter="4" paragraph="9" sentence="1">"WHAT THE HELL ARE YOU DOING YOU MOTHERFUKERS!"</dialogue>
+   <dialogue handle="dumblydore" chapter="5" paragraph="2" sentence="1">"You ludacris fools!"</dialogue>
+   <dialogue handle="dumblydore" chapter="5" paragraph="4" sentence="1">"They were having sexual intercourse in the Forbidden Forest!"</dialogue>
+   <dialogue handle="mcgoogle" chapter="5" paragraph="5" sentence="1">"Why did you do such a thing, you mediocre dunces?"</dialogue>
+   <dialogue handle="snap" chapter="5" paragraph="6" sentence="1">"How dare you?"</dialogue>
+   <dialogue handle="draco" chapter="5" paragraph="7" sentence="1">"BECAUSE I LOVE HER!"</dialogue>
+   <dialogue handle="snap" chapter="5" paragraph="8" sentence="2">"Fine. Very well. You may go up to your rooms."</dialogue>
+   <dialogue handle="draco" chapter="5" paragraph="10" sentence="1">"Are you okay, Ebony?"</dialogue>
+   <dialogue handle="enoby" chapter="5" paragraph="11" sentence="1">"Yeah I guess."</dialogue>
+   <dialogue handle="vampire" chapter="6" paragraph="4" sentence="1">"I'm so sorry."</dialogue>
+   <dialogue handle="enoby" chapter="6" paragraph="5" sentence="1">"That's all right. What's your name?"</dialogue>
+   <dialogue handle="vampire" chapter="6" paragraph="6" sentence="1">"My name's Harry Potter, although most people call me Vampire these days."</dialogue>
+   <dialogue handle="vampire" chapter="6" paragraph="8" sentence="1">"Because I love the taste of human blood."</dialogue>
+   <dialogue handle="enoby" chapter="6" paragraph="9" sentence="1">"Well, I am a vampire."</dialogue>
+   <dialogue handle="enoby" chapter="7" paragraph="2" sentence="1">"Oh Draco, Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="7" paragraph="4" sentence="1">"You bastard!"</dialogue>
+   <dialogue handle="draco" chapter="7" paragraph="5" sentence="1">"No! No! But you don't understand!"</dialogue>
+   <dialogue handle="enoby" chapter="7" paragraph="6" sentence="1">"No, you fucking idiot!"</dialogue>
+   <dialogue handle="enoby" chapter="7" paragraph="6" sentence="2">"You probably have AIDs anyway!"</dialogue>
+   <dialogue handle="enoby" chapter="7" paragraph="8" sentence="1">"VAMPIRE POTTER, YOU MOTHERFUCKER!"</dialogue>
+   <dialogue handle="draco" chapter="8" paragraph="2" sentence="1">"Ebony, it's not what you think!"</dialogue>
+   <dialogue handle="snap" chapter="8" paragraph="4" sentence="1">"What is it that you desire, you ridiculous dimwit!"</dialogue>
+   <dialogue handle="enoby" chapter="8" paragraph="5" sentence="1">"Vampire, I can't believe you cheated on me with Draco!"</dialogue>
+   <dialogue handle="vampire" chapter="8" paragraph="7" sentence="1">"But I'm not going out with Draco anymore!"</dialogue>
+   <dialogue handle="enoby" chapter="8" paragraph="8" sentence="1">"Yeah fucking right! Fuck off, you bastard!"</dialogue>
+   <dialogue handle="vloxemort" chapter="9" paragraph="5" sentence="2">"Thou must kill Vampire Potter!"</dialogue>
+   <dialogue handle="enoby" chapter="9" paragraph="7" sentence="1">"No, Voldemort!"</dialogue>
+   <dialogue handle="enoby" chapter="9" paragraph="8" sentence="2">"No! Please!"</dialogue>
+   <dialogue handle="vloxemort" chapter="9" paragraph="9" sentence="1">"Thou must!"</dialogue>
+   <dialogue handle="vloxemort" chapter="9" paragraph="9" sentence="2">"If thou does not, then I shall kill thy beloved Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="9" paragraph="10" sentence="1">"How did you know?"</dialogue>
+   <dialogue handle="vloxemort" chapter="9" paragraph="11" sentence="2">"I hath telekinesis."</dialogue>
+   <dialogue handle="vloxemort" chapter="9" paragraph="11" sentence="3">"And if you doth not kill Vampire, then thou know what will happen to Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="9" paragraph="15" sentence="1">"Are you okay?"</dialogue>
+   <dialogue handle="enoby" chapter="9" paragraph="17" sentence="1">"I'm sorry I got all mad at you but I thought you cheated on me."</dialogue>
+   <dialogue handle="draco" chapter="9" paragraph="18" sentence="1">"That's okay."</dialogue>
+   <dialogue handle="bloody" chapter="10" paragraph="3" sentence="1">"Ebony! Are you OK?"</dialogue>
+   <dialogue handle="enoby" chapter="10" paragraph="4" sentence="1">"What the fuck do you think?"</dialogue>
+   <dialogue handle="enoby" chapter="10" paragraph="4" sentence="2">"Well, Voldemort came and the fucking bastard told me to fucking kill Harry! But I don't want to kill him, because, he's really nice, even if he did go out with Draco. But if I don't kill Harry, then Voldemort, will fucking kill Draco!"</dialogue>
+   <dialogue handle="draco" chapter="10" paragraph="6" sentence="1">"Why didn't you fucking tell me!"</dialogue>
+   <dialogue handle="draco" chapter="10" paragraph="6" sentence="2">"How could you- you- you fucking poser muggle bitch!"</dialogue>
+   <dialogue handle="dumblydore" chapter="10" paragraph="9" sentence="1">"What have you done!"</dialogue>
+   <dialogue handle="dumblydore" chapter="10" paragraph="9" sentence="2">"Ebony Draco has been found in his room. He committed suicide by slitting his wrists."</dialogue>
+   <dialogue handle="enoby" chapter="11" paragraph="3" sentence="1">"EW, YOU FUCKING PERVS, STOP LOOKING AT ME NAKED! ARE YOU PEDOS OR WHAT!"</dialogue>
+   <dialogue handle="vampire" chapter="11" paragraph="4" sentence="1">"Abra Kedavra!"</dialogue>
+   <dialogue handle="dumblydore" chapter="11" paragraph="4" sentence="4">"Ebony, it has been revealed that someone has - NOOOOOOOOOOOOO!"</dialogue>
+   <dialogue handle="dumblydore" chapter="11" paragraph="6" sentence="1">"What do you know, Hargrid? You're just a little Hogwarts student!"</dialogue>
+   <dialogue handle="hargrid" chapter="11" paragraph="7" sentence="1">"I MAY BE A HOGWARTS STUDENT...."</dialogue>
+   <dialogue handle="hargrid" chapter="11" paragraph="7" sentence="2">"BUT I AM ALSO A SATANIST!"</dialogue>
+   <dialogue handle="snap" chapter="11" paragraph="8" sentence="1">"This cannot be." Snap said in a crisp voice as blood dripped from his hand where Dumblydore's wand had shot him.</dialogue>
+   <dialogue handle="snap" chapter="11" paragraph="8" sentence="2">"There must be other factors."</dialogue>
+   <dialogue handle="enoby" chapter="11" paragraph="9" sentence="1">"YOU DON'T HAVE ANY!"</dialogue>
+   <dialogue handle="loopin" chapter="11" paragraph="10" sentence="2">"The lens may be ruined but the tape is still there!"</dialogue>
+   <dialogue handle="snap" chapter="11" paragraph="14" sentence="1">"Because you're goffic?"</dialogue>
+   <dialogue handle="hargrid" chapter="11" paragraph="15" sentence="1">"Because I LOVE HER!"</dialogue>
+   <dialogue handle="vampire" chapter="12" paragraph="2" sentence="4">"OMFG! NOOOOO! MY SCAR HURTS!"</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="3" sentence="2">"How did u know?"</dialogue>
+   <dialogue handle="vampire" chapter="12" paragraph="4" sentence="1">"I saw it! And my scar turned back into the lightning bolt!"</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="5" sentence="3">"I thought you didn't have a scar anymore!"</dialogue>
+   <dialogue handle="vampire" chapter="12" paragraph="6" sentence="1">"I do but Diabolo changed it into a pentagram for me and I always cover it up with foundation."</dialogue>
+   <dialogue handle="vampire" chapter="12" paragraph="6" sentence="2">"Anyway my scar hurt and it turned back into the lightning bolt! Save me! then I had a vision of what was happening to Draco................Volfemort has him bondage!"</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="9" sentence="1">"Enoby I need to tell u somethnig."</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="10" sentence="1">"Fuck off."</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="10" sentence="2">"You know I fucking hate the color pink anyway, and I don't like fucked up preps like you."</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="11" sentence="1">"No Enoby."</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="11" sentence="2">"Those are not roses."</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="12" sentence="1">"What, are they goffs too you poser prep?"</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="13" sentence="1">"I saved your life!"</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="13" sentence="2">"No you didn't</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="13" sentence="3">"You saved me from getting a Paris Hilton p- video made from your shower scene and being vued by Snap and Loopin."</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="15" sentence="2">"These aren't roses."</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="15" sentence="3">Well If you wanted Honesty that's all you haD TO SAY!</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="16" sentence="1">"hat's not a spell that's an MCR song."</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="17" sentence="1">"I know, I was just warming up my vocal cordes."</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="17" sentence="3">"Petulus merengo mi kremicli romacio(4 all u cool goffic mcr fans out, there, that is a tribute! specially for raven I love you girl!)imo noto okayo!"</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="19" sentence="1">"OK I believe you now wtf is Drako?"</dialogue>
+   <dialogue handle="dumblydore" chapter="12" paragraph="21" sentence="1">"U c, Enobby,"</dialogue>
+   <dialogue handle="dumblydore" chapter="12" paragraph="21" sentence="2">"2 c wht iz n da flmes(HAHA U REVIEWRS FLAMES GEDDIT) u mst find urslf 1st, k?"</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="22" sentence="1">"I HAVE FOUND MYSELF OK YOU MEAN OLD MAN!"</dialogue>
+   <dialogue handle="hargrid" chapter="12" paragraph="23" sentence="2">"U r a liar, prof dumbledoree!"</dialogue>
+   <dialogue handle="bloody" chapter="12" paragraph="25" sentence="1">"You look kawai, girl."</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="25" sentence="2">"Fangs (geddit) you do too."</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="26" sentence="2">"Hi back."</dialogue>
+   <dialogue handle="mcgoogle" chapter="12" paragraph="28" sentence="1">"STOP IT NOW YOU HORNY SIMPLETONS!"</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="29" sentence="1">"Vampire you fucker!"</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="29" sentence="2">"Stop trying to screw me. You know I loved Draco!"</dialogue>
+   <dialogue handle="vampire" chapter="12" paragraph="30" sentence="2">"OMFG! NOOOOO! MY SCAR HURTS!"</dialogue>
+   <dialogue handle="enoby" chapter="12" paragraph="32" sentence="1">"I thought you didn't have a scar anymore!"</dialogue>
+   <dialogue handle="vampire" chapter="12" paragraph="33" sentence="1">"I do but Diabolo changed it into a pentagram for me and I always cover it up with foundation."</dialogue>
+   <dialogue handle="vampire" chapter="12" paragraph="33" sentence="2">"Anyway my scar hurt and then I had a vision of what was happening to Draco................Volfemort has him bondage!"</dialogue>
+   <dialogue handle="enoby" chapter="13" paragraph="2" sentence="1">"Dumbledore Dumblydore!"</dialogue>
+   <dialogue handle="vampire" chapter="13" paragraph="2" sentence="1">"Dumbledore Dumblydore!"</dialogue>
+   <dialogue handle="dumblydore" chapter="13" paragraph="3" sentence="1">"What is it that you want now you despicable snobs?"</dialogue>
+   <dialogue handle="enoby" chapter="13" paragraph="4" sentence="1">"Volsemort has Draco!"</dialogue>
+   <dialogue handle="vampire" chapter="13" paragraph="4" sentence="1">"Volsemort has Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="13" paragraph="6" sentence="1">"No! Don't! We need to save Draco!"</dialogue>
+   <dialogue handle="vampire" chapter="13" paragraph="6" sentence="1">"No! Don't! We need to save Draco!"</dialogue>
+   <dialogue handle="dumblydore" chapter="13" paragraph="7" sentence="2">"I don't give a darn what Voldemort does to Draco. Not after how much he misbehaved in school especially with YOU Ebony."</dialogue>
+   <dialogue handle="dumblydore" chapter="13" paragraph="7" sentence="3">"Besides I never liked him that much anyway."</dialogue>
+   <dialogue handle="vampire" chapter="13" paragraph="7" sentence="6">"My Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="13" paragraph="8" sentence="1">"Its okay!"</dialogue>
+   <dialogue handle="vampire" chapter="13" paragraph="8" sentence="4">"I had an idea!"</dialogue>
+   <dialogue handle="vampire" chapter="13" paragraph="10" sentence="1">"You'll see."</dialogue>
+   <dialogue handle="vloxemort" chapter="13" paragraph="11" sentence="1">"Allah Kedavra"</dialogue>
+   <dialogue handle="draco" chapter="15" paragraph="1" sentence="1">"Ebony Ebony!"</dialogue>
+   <dialogue handle="draco" chapter="15" paragraph="1" sentence="2">"No, please, come back!"</dialogue>
+   <dialogue handle="enoby" chapter="15" paragraph="3" sentence="1">"Whatever! Now u can go anh have sex with Vampire!"</dialogue>
+   <dialogue handle="draco" chapter="15" paragraph="5" sentence="1">"Enoby I love you!"</dialogue>
+   <dialogue handle="draco" chapter="15" paragraph="5" sentence="2">"I dnot care what those fucker preps and posers fink. Ur da most beautiful girl in the world. Before I met you I used to want to commit suicide all the time. Now I just wanna fucking be with you. I fucking love you!."</dialogue>
+   <dialogue handle="enoby" chapter="15" paragraph="6" sentence="1">"I love you!"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="2" sentence="1">"Wtf Draco im not going to a concert wid u!"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="2" sentence="2">"Not after what happened to me last time? Even if its MCR n u no how much I lik them"</dialogue>
+   <dialogue handle="draco" chapter="16" paragraph="3" sentence="1">"What cause we...you know..."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="4" sentence="1">"Yeah cause we you know!"</dialogue>
+   <dialogue handle="draco" chapter="16" paragraph="5" sentence="1">"We won't do that again."</dialogue>
+   <dialogue handle="draco" chapter="16" paragraph="5" sentence="2">"This time, we're going with an ESCORT."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="6" sentence="1">"OMFG wtf/ Are you giving into the mainstream?"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="6" sentence="2">"So I guess ur a prep or a Christina or what now?"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="8" sentence="1">R u becoming a prep or what?"</dialogue>
+   <dialogue handle="draco" chapter="16" paragraph="9" sentence="1">"Enoby! I'm not! Pls come with me!"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="11" sentence="1">"OK then I guess I will have to."</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="12" sentence="2">"Hajimemashite gurl."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="13" sentence="1">"It serves that fuking bich right."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="14" sentence="3">"Maybe Willow will die too."</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="15" sentence="3">"Oh yeah o have a confession after she got expuld I murdered her and den loopin did it with her cause he's a necphilak."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="17" sentence="1">"OH HEY BTw, im going to a concert with drako tonight in Hogsmeade with mcr."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="17" sentence="1">" I need to wear like da hotset outfit EVA."</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="18" sentence="1">"Omfg totally lets go shopping."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="19" sentence="1">"In Hot Topic, right?"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="21" sentence="4">"B'Loody Mary are u a PREP?"</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="22" sentence="1">"I found some cool goffic stores near Hogwarts that's all."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="23" sentence="1">"Hu told u abut them"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="25" sentence="1">"OMFFG DUMBLYDORE?"</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="26" sentence="1">"Yah I saw the map for Hogsmeade on his desk."</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="26" sentence="1">"Come on let's go."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="28" sentence="1">"Da real goffs?"</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="28" sentence="1">"Da real goffs?"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="30" sentence="1">"OMFG NO THEIR GONNA SPY ON ME AGAIN!"</dialogue>
+   <dialogue handle="bloody" chapter="16" paragraph="32" sentence="1">"Yeah it looks totlly hot."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="34" sentence="1">"Yeah I am actually."</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="34" sentence="3">"Hey BTW my name's ebondy dark'ness dementia TARA way what's yours?"</dialogue>
+   <dialogue handle="enoby" chapter="16" paragraph="36" sentence="1">"Yeah I don't think so cause I am going there with my bf drako you sick perv!"</dialogue>
+   <dialogue handle="hargrid" chapter="16" paragraph="36" sentence="2">"OMFG EBONDY U NEED OT GET BACK INTO THE CASTLE NOW!"</dialogue>
+   <dialogue handle="enoby" chapter="17" paragraph="1" sentence="4">"WTF Hargrid?"</dialogue>
+   <dialogue handle="enoby" chapter="17" paragraph="1" sentence="4">"Fuck off you fjucking bastard."</dialogue>
+   <dialogue handle="enoby" chapter="17" paragraph="3" sentence="1">"Yah but not as kawaii as you."</dialogue>
+   <dialogue handle="vloxemort" chapter="17" paragraph="8" sentence="1">"U moronic idiots!"</dialogue>
+   <dialogue handle="vloxemort" chapter="17" paragraph="8" sentence="1">"Enoby, I told u to kill Vampire. Thou have failed. And now...I shall kill thou and Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="17" paragraph="9" sentence="1">"No no please!"</dialogue>
+   <dialogue handle="draco" chapter="17" paragraph="9" sentence="1">"No no please!"</dialogue>
+   <dialogue handle="enoby" chapter="18" paragraph="6" sentence="2">"I thought he was just wearing that to scare Volsemort!"</dialogue>
+   <dialogue handle="dumblydore" chapter="18" paragraph="7" sentence="1">"Hello everyone."</dialogue>
+   <dialogue handle="dumblydore" chapter="18" paragraph="7" sentence="2">"As u can see I gave the room a makeover. Whjat do u fink about it?"</dialogue>
+   <dialogue handle="dumblydore" chapter="18" paragraph="9" sentence="1">"BTW you can call me Albert."</dialogue>
+   <dialogue handle="draco" chapter="18" paragraph="10" sentence="1">"What a fucking poser!"</dialogue>
+   <dialogue handle="draco" chapter="19" paragraph="4" sentence="1">"No one fucking understands me!1"</dialogue>
+   <dialogue handle="enoby" chapter="19" paragraph="5" sentence="1">"Accuse me? What about me!"</dialogue>
+   <dialogue handle="enoby" chapter="19" paragraph="7" sentence="1">"You fucking bastard!"</dialogue>
+   <dialogue handle="draco" chapter="19" paragraph="7" sentence="2">"No! Wait! It's not what it fucking looks like!"</dialogue>
+   <dialogue handle="enoby" chapter="19" paragraph="10" sentence="1">"You gave me a fucking shock!"</dialogue>
+   <dialogue handle="enoby" chapter="19" paragraph="10" sentence="2">"Wtf do you fink you're doing in da gurl's room?"</dialogue>
+   <dialogue handle="dumblydore" chapter="19" paragraph="12" sentence="1">"Hey I need to ask you a question."</dialogue>
+   <dialogue handle="dumblydore" chapter="19" paragraph="12" sentence="2">"What are u wearing to the concert?"</dialogue>
+   <dialogue handle="enoby" chapter="19" paragraph="13" sentence="1">"U no who MCR r!"</dialogue>
+   <dialogue handle="dumblydore" chapter="19" paragraph="14" sentence="1">"No I just saw there was a concert dat a lot of gothz and punx were going 2."</dialogue>
+   <dialogue handle="dumblydore" chapter="19" paragraph="14" sentence="2">"Anyway Draco has a surprise for u."</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="2" sentence="1">"Wut de fucking hell r u doing!"</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="2" sentence="3">"R u gonna cum rape me or what."</dialogue>
+   <dialogue handle="loopin" chapter="20" paragraph="3" sentence="1">"No, actshelly (geddit, hell) kan I plz burrow sum condemns."</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="4" sentence="1">"Yah, so u can fuk ur six-yr-old gurlfriend, huh?"</dialogue>
+   <dialogue handle="loopin" chapter="20" paragraph="7" sentence="1">"Oh my god you ludacris idiot!"</dialogue>
+   <dialogue handle="snap" chapter="20" paragraph="7" sentence="1">"Oh my god you ludacris idiot!"</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="8" sentence="1">"WTF is that why u wanted condoms?"</dialogue>
+   <dialogue handle="loopin" chapter="20" paragraph="9" sentence="1">"Only you wouldn't give them to me!"</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="10" sentence="1">"Well you shoulda told me."</dialogue>
+   <dialogue handle="snap" chapter="20" paragraph="11" sentence="1">"You dimwit!."</dialogue>
+   <dialogue handle="loopin" chapter="20" paragraph="12" sentence="1">"Well xcuse me!"</dialogue>
+   <dialogue handle="snap" chapter="20" paragraph="12" sentence="1">"Well xcuse me!"</dialogue>
+   <dialogue handle="loopin" chapter="20" paragraph="12" sentence="2">"What was dat al about?"</dialogue>
+   <dialogue handle="snap" chapter="20" paragraph="12" sentence="2">"What was dat al about?"</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="13" sentence="1">"It wuz to blackmail u."</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="13" sentence="2">"So now next time you see me doing it with my boyfriend you cant fuking rat me out or I'll show dis to Dumbledork. So fuck off, u bastards!"</dialogue>
+   <dialogue handle="enoby" chapter="20" paragraph="14" sentence="1">"WTF where'd Draco?"</dialogue>
+   <dialogue handle="vampire" chapter="20" paragraph="14" sentence="2">"Oh he's bein a fucking bastard. He told me he wouldn't cum."</dialogue>
+   <dialogue handle="vampire" chapter="20" paragraph="14" sentence="3">"U wanna cum with me? 2 the concert?"</dialogue>
+   <dialogue handle="enoby" chapter="21" paragraph="1" sentence="3">"Draco are u okay?"</dialogue>
+   <dialogue handle="draco" chapter="21" paragraph="2" sentence="1">"No I'm not u fuking bitch!"</dialogue>
+   <dialogue handle="vampire" chapter="21" paragraph="3" sentence="1">"Its ok Enoby."</dialogue>
+   <dialogue handle="vampire" chapter="21" paragraph="3" sentence="2">"Ill make him feel better."</dialogue>
+   <dialogue handle="enoby" chapter="21" paragraph="4" sentence="1">"You mean you'll go fuck him wont you!"</dialogue>
+   <dialogue handle="vampire" chapter="21" paragraph="9" sentence="1">"No fuck u you preppy little poser sun of a fukcing bich!"</dialogue>
+   <dialogue handle="enoby" chapter="21" paragraph="12" sentence="2">"R u okay?"</dialogue>
+   <dialogue handle="draco" chapter="21" paragraph="13" sentence="1">"I guess though."</dialogue>
+   <dialogue handle="enoby" chapter="22" paragraph="4" sentence="2">"Why the fuck are u all here?"</dialogue>
+   <dialogue handle="draco" chapter="22" paragraph="5" sentence="1">"Enoby something is really fucked up."</dialogue>
+   <dialogue handle="enoby" chapter="22" paragraph="6" sentence="1">"OK but I need to put my fucking clothes on first."</dialogue>
+   <dialogue handle="draco" chapter="22" paragraph="7" sentence="1">"It's all right. We have to go now and you look kawaii anyway. Your so fucking beautiful."</dialogue>
+   <dialogue handle="enoby" chapter="22" paragraph="8" sentence="1">"Oh all right."</dialogue>
+   <dialogue handle="draco" chapter="22" paragraph="9" sentence="1">"I will I will."</dialogue>
+   <dialogue handle="dumblydore" chapter="22" paragraph="14" sentence="1">"Very well."</dialogue>
+   <dialogue handle="dumblydore" chapter="22" paragraph="14" sentence="1">"Butt we cannot do this. We can't close the school. There is only one person who is capable of killing Voldemort and she is in the school. And her name is...Enony Dark'ness Dementia Raven Way."</dialogue>
+   <dialogue handle="dumblydore" chapter="23" paragraph="3" sentence="1">"Oops she made a mistake!"</dialogue>
+   <dialogue handle="dumblydore" chapter="23" paragraph="3" sentence="2">"She means hi everybody cum in!"</dialogue>
+   <dialogue handle="enoby" chapter="23" paragraph="5" sentence="1">"Vampire, Draco WTF?"</dialogue>
+   <dialogue handle="draco" chapter="23" paragraph="6" sentence="1">"You fucking bustard!"</dialogue>
+   <dialogue handle="draco" chapter="23" paragraph="6" sentence="2">"I want to shit next to her!1"</dialogue>
+   <dialogue handle="vampire" chapter="23" paragraph="7" sentence="1">"No I do!"</dialogue>
+   <dialogue handle="draco" chapter="23" paragraph="8" sentence="1">No she doesn't fucking like u, you son of a bitch!"</dialogue>
+   <dialogue handle="vampire" chapter="23" paragraph="9" sentence="1">"No fuck you motherfucker she laves me not you!"</dialogue>
+   <dialogue handle="enoby" chapter="23" paragraph="12" sentence="1">"Plz don't make me kill him plz!"</dialogue>
+   <dialogue handle="vloxemort" chapter="23" paragraph="13" sentence="2">"Kill him, or I shall kill him anyway!"</dialogue>
+   <dialogue handle="draco" chapter="23" paragraph="16" sentence="1">"Ebony Ebony aure you alright?"</dialogue>
+   <dialogue handle="enoby" chapter="23" paragraph="17" sentence="1">"Yeah yeah."</dialogue>
+   <dialogue handle="vampire" chapter="23" paragraph="18" sentence="1">"Everyfing's all right Enoby."</dialogue>
+   <dialogue handle="enoby" chapter="23" paragraph="19" sentence="1">"No its not!"</dialogue>
+   <dialogue handle="enoby" chapter="23" paragraph="19" sentence="3">"OMFG what if I'm getting possessed like in Da Ring 2!"</dialogue>
+   <dialogue handle="bloody" chapter="23" paragraph="20" sentence="1">"Its ok gurl."</dialogue>
+   <dialogue handle="bloody" chapter="23" paragraph="20" sentence="2">"Maybe u should ask Proffesor Sinister about what the visions mean though."</dialogue>
+   <dialogue handle="enoby" chapter="23" paragraph="21" sentence="1">"Ok bich."</dialogue>
+   <dialogue handle="enoby" chapter="24" paragraph="4" sentence="4">"Well I have to talk to you about some fings something . When do you want to due it?"</dialogue>
+   <dialogue handle="enoby" chapter="24" paragraph="8" sentence="1">"OK I'm having lotz of visions."</dialogue>
+   <dialogue handle="enoby" chapter="24" paragraph="8" sentence="2">I'm so worried is Draco gong 2 die.</dialogue>
+   <dialogue handle="enoby" chapter="24" paragraph="11" sentence="1">"I said I see a black gothic skull and a pentagram."</dialogue>
+   <dialogue handle="enoby" chapter="24" paragraph="14" sentence="1">"Bye bitch."</dialogue>
+   <dialogue handle="draco" chapter="25" paragraph="2" sentence="1">"Ebony what the fuck did Profesor Trevolry say."</dialogue>
+   <dialogue handle="enoby" chapter="25" paragraph="3" sentence="1">"She said she would tell me what the visions meant torromow."</dialogue>
+   <dialogue handle="enoby" chapter="25" paragraph="5" sentence="1">"OMFG Draco Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="25" paragraph="7" sentence="1">"No! Oh my fucking god!11"</dialogue>
+   <dialogue handle="draco" chapter="25" paragraph="8" sentence="1">"Ebony what's wrong?"</dialogue>
+   <dialogue handle="enoby" chapter="26" paragraph="2" sentence="1">"Hi Vampire."</dialogue>
+   <dialogue handle="vampire" chapter="26" paragraph="3" sentence="1">"Oh fuck it!"</dialogue>
+   <dialogue handle="vampire" chapter="26" paragraph="3" sentence="3">"What fucking dick did that!"</dialogue>
+   <dialogue handle="enoby" chapter="26" paragraph="4" sentence="1">"I don't know."</dialogue>
+   <dialogue handle="enoby" chapter="26" paragraph="4" sentence="1">"Now come on we have 2 tell Dumbledor."</dialogue>
+   <dialogue handle="draco" chapter="26" paragraph="6" sentence="1">"Enoby had a vision in a dreem."</dialogue>
+   <dialogue handle="enoby" chapter="26" paragraph="9" sentence="1">"Look motherfucker."</dialogue>
+   <dialogue handle="dumblydore" chapter="26" paragraph="10" sentence="1">"Were are they?"</dialogue>
+   <dialogue handle="enoby" chapter="27" paragraph="4" sentence="4">"Tara, I see drak times are near."</dialogue>
+   <dialogue handle="draco" chapter="27" paragraph="6" sentence="1">"What fucking happened?"</dialogue>
+   <dialogue handle="vampire" chapter="27" paragraph="6" sentence="1">"What fucking happened?"</dialogue>
+   <dialogue handle="bloody" chapter="27" paragraph="7" sentence="1">"Yeah what happened?"</dialogue>
+   <dialogue handle="vampire" chapter="28" paragraph="3" sentence="1">"Are you okay?"</dialogue>
+   <dialogue handle="enoby" chapter="28" paragraph="4" sentence="1">"Yah I guess."</dialogue>
+   <dialogue handle="enoby" chapter="28" paragraph="4" sentence="4">"The problem is...I have to seduce Volxemort. Ill have 2 go bak in time"</dialogue>
+   <dialogue handle="draco" chapter="28" paragraph="6" sentence="1">"Itz okay Eboby."</dialogue>
+   <dialogue handle="draco" chapter="28" paragraph="6" sentence="1">"But what about me? Ur not gonna brake up with me or anyfing, are you?"</dialogue>
+   <dialogue handle="enoby" chapter="28" paragraph="7" sentence="1">"Of coarse not!"</dialogue>
+   <dialogue handle="draco" chapter="28" paragraph="4" sentence="1">"I love you Eboby. Oh let me feel u I need 2 feel u."</dialogue>
+   <dialogue handle="mcgoogle" chapter="28" paragraph="11" sentence="1">"WHAT THE FUCK R U DOING!"</dialogue>
+   <dialogue handle="snap" chapter="28" paragraph="11" sentence="1">"WHAT THE FUCK R U DOING!"</dialogue>
+   <dialogue handle="mcgoogle" chapter="29" paragraph="2" sentence="1">"CUM "NOW!1!"</dialogue>
+   <dialogue handle="vampire" chapter="29" paragraph="3" sentence="1">"Hey what the fuck!111"</dialogue>
+   <dialogue handle="draco" chapter="29" paragraph="4" sentence="1">"Yeah buster what the fuck are u going to do with the fucking camera?"</dialogue>
+   <dialogue handle="snap" chapter="29" paragraph="5" sentence="1">Hahahaha the Mystery of Mogic thinks he is crazy there is no way dey wil believe him.</dialogue>
+   <dialogue handle="mcgoogle" chapter="29" paragraph="6" sentence="1">"Yes so shut your mputh you inlosent fools!"</dialogue>
+   <dialogue handle="draco" chapter="29" paragraph="10" sentence="1">"It's ok Enoby."</dialogue>
+   <dialogue handle="enoby" chapter="30" paragraph="2" sentence="1">"What the fuck r u doing!"</dialogue>
+   <dialogue handle="snap" chapter="30" paragraph="4" sentence="1">"U must stab Vrompire."</dialogue>
+   <dialogue handle="snap" chapter="30" paragraph="4" sentence="1">"If u don't then I'll rap Draco!1"</dialogue>
+   <dialogue handle="enoby" chapter="30" paragraph="5" sentence="1">"No you fucking bastrad!1"</dialogue>
+   <dialogue handle="draco" chapter="30" paragraph="8" sentence="1">"Dumbeldork will get u!"</dialogue>
+   <dialogue handle="vampire" chapter="30" paragraph="9" sentence="1">"Yah just wait ubtil da Mystery find out!11"</dialogue>
+   <dialogue handle="snap" chapter="30" paragraph="1" sentence="1">"You ridiculus dondderhed!111"</dialogue>
+   <dialogue handle="snap" chapter="30" paragraph="11" sentence="1">"You dunderhed!111 Im going to kill-"</dialogue>
+   <dialogue handle="snap" chapter="31" paragraph="2" sentence="1">"No I'm not I was teaching them somefing!1"</dialogue>
+   <dialogue handle="enoby" chapter="31" paragraph="3" sentence="1">"Oh fucking yeah?"</dialogue>
+   <dialogue handle="enoby" chapter="31" paragraph="4" sentence="1">"Whatz in da bag?"</dialogue>
+   <dialogue handle="bloody" chapter="31" paragraph="6" sentence="1">"You look fucking kawaii, bitch."</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="1" sentence="1">"Im Enoby Way da new student."</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="3" sentence="3">"Hey Satan........do u happen to be a fan of Gren Day?" (sinz mcr and evinezenz dont exist yet den)</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="5" sentence="1">"omg me too!"</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="11" sentence="3">"so is dumblydor your princepill?"</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="13" sentence="1">"OMfG SHME TOO!"</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="15" sentence="1">"yah that's why im here im NEW."</dialogue>
+   <dialogue handle="dumblydore" chapter="32" paragraph="16" sentence="2">"NO TALKING IN THE HALLS!"</dialogue>
+   <dialogue handle="dumblydore" chapter="32" paragraph="16" sentence="4">"STUPID GOFFS!"</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="18" sentence="2">"actually I fink mebe its becos ur da barke lord."</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="20" sentence="1">"oh nuffin."</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="21" sentence="2">"OMFG NO</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="23" sentence="3">"dumblydore I think I just met u."</dialogue>
+   <dialogue handle="dumblydore" chapter="32" paragraph="24" sentence="1">"oh yeah I rememba that."</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="28" sentence="1">"wth how?"</dialogue>
+   <dialogue handle="dumblydore" chapter="32" paragraph="30" sentence="1">"hey r u crying tears of blood?"</dialogue>
+   <dialogue handle="enoby" chapter="32" paragraph="31" sentence="1">"fuck off!"</dialogue>
+   <dialogue handle="enoby" chapter="33" paragraph="1" sentence="1">"Oh my fuking god!1"</dialogue>
+   <dialogue handle="enoby" chapter="33" paragraph="1" sentence="2">"Shud we get u 2 St Manga's, bitch?"</dialogue>
+   <dialogue handle="enoby" chapter="33" paragraph="4" sentence="1">"Hey Sexxy."</dialogue>
+   <dialogue handle="draco" chapter="33" paragraph="5" sentence="1">"How'd it go Enoby?"</dialogue>
+   <dialogue handle="draco" chapter="33" paragraph="7" sentence="1">"How far did u go wif Satan?"</dialogue>
+   <dialogue handle="enoby" chapter="33" paragraph="8" sentence="1">"Not 2 far, lol."</dialogue>
+   <dialogue handle="draco" chapter="33" paragraph="9" sentence="1">"Will you hav to do it with him?"</dialogue>
+   <dialogue handle="enoby" chapter="33" paragraph="10" sentence="1">"I hop not 2 far!111"</dialogue>
+   <dialogue handle="enoby" chapter="33" paragraph="11" sentence="1">"What happened 2 Snipe?"</dialogue>
+   <dialogue handle="draco" chapter="33" paragraph="12" sentence="1">"U will see."</dialogue>
+   <dialogue handle="loopin" chapter="33" paragraph="13" sentence="1">"NOOOO PLZ!1111"</dialogue>
+   <dialogue handle="enoby" chapter="33" paragraph="14" sentence="1">"Oh Draco!111111!1 Oh mi fuking gud Draco!1111"</dialogue>
+   <dialogue handle="enoby" chapter="34" paragraph="4" sentence="1">"So what the fuck happened 2 Snipe and Loopin?"</dialogue>
+   <dialogue handle="enoby" chapter="34" paragraph="7" sentence="1">"Where r Draco and Vampira?"</dialogue>
+   <dialogue handle="enoby" chapter="34" paragraph="14" sentence="1">"Whose he!11"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="3" sentence="1">"Draco what da fuk r u dong!111111"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="5" sentence="1">"Oh hi Lucian!1"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="5" sentence="2">Im Ebony the new student lol</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="9" sentence="1">"Hey bastards."</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="9" sentence="3">"But don't u have a lead singer!"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="11" sentence="1">"Oh my fuking god!11 Datz so fuking sad!1"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="13" sentence="2">Im in a bnad myself."</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="15" sentence="1">"Yeah were called Blody Gothik Rose 666. Do u wanna hr me sing?"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="17" sentence="1">"I wok dis empt stret on da bolevrad of broken dremz."</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="18" sentence="1">"Enopby? Will u join da band? Plz!1"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="19" sentence="2">"Are we gong to play tonight?"</dialogue>
+   <dialogue handle="enoby" chapter="35" paragraph="22" sentence="1">"What da hell r u dong here!11"</dialogue>
+   <dialogue handle="enoby" chapter="36" paragraph="2" sentence="1">"OMFG Sorius I saw u nd Samaro and Snip nd everyone!11111 I kant beleev Snap uzd 2 b goffik!111111"</dialogue>
+   <dialogue handle="enoby" chapter="36" paragraph="5" sentence="1">Hi fuker."</dialogue>
+   <dialogue handle="enoby" chapter="36" paragraph="5" sentence="2">"Lizzen, Satan asked me out to a gottik cornet and a movie so I need a sexah new outfit for da date. Also I"m playng in a gothic band so I need an ootfit for that too."</dialogue>
+   <dialogue handle="bloody" chapter="36" paragraph="6" sentence="1">"Oh my satan!1"</dialogue>
+   <dialogue handle="bloody" chapter="36" paragraph="6" sentence="2">"Want 2 go to Hot Topik to shop 4 ur outfit?"</dialogue>
+   <dialogue handle="draco" chapter="36" paragraph="9" sentence="1">"Yah we need sum portions for Profesor Trevolry so she wont be adikted 2 Volxemortserum anymore nd also..............sum luv potion 4 Enoby."</dialogue>
+   <dialogue handle="draco" chapter="36" paragraph="12" sentence="1">"Hey where the fuck is Dumblydore!111"</dialogue>
+   <dialogue handle="vampire" chapter="36" paragraph="15" sentence="1">"Can you BELEVE Snap used to be gottik!1"</dialogue>
+   <dialogue handle="enoby" chapter="36" paragraph="19" sentence="1">"WTF is he doing?"</dialogue>
+   <dialogue handle="draco" chapter="36" paragraph="19" sentence="4">"HARGRIF WUT DA FOK R U DOING!11"</dialogue>
+   <dialogue handle="hargrid" chapter="36" paragraph="21" sentence="1">"God u r such a posr!1"</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="2" sentence="1">"Oh mi fucking satan!11"</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="2" sentence="3">"Maybe I cud uze Amnesia potion 2 make Satan foll in love wif me faster!1"</dialogue>
+   <dialogue handle="vampire" chapter="37" paragraph="3" sentence="1">"But u r so sexy and wonderful aneway Tata,"</dialogue>
+   <dialogue handle="vampire" chapter="37" paragraph="3" sentence="1">"Why would u need it?"</dialogue>
+   <dialogue handle="draco" chapter="37" paragraph="5" sentence="1">"But you wont have to do it wif him or anyfing, will u?"</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="3" sentence="1">"OMG fangz!"</dialogue>
+   <dialogue handle="draco" chapter="37" paragraph="4" sentence="1">"OK Profesor Sinister isnt hr what the fuk should we do?"</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="5" sentence="1">"Oh my fuking satan!1"</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="6" sentence="2">"How could they do that!11"</dialogue>
+   <dialogue handle="dumblydore" chapter="37" paragraph="8" sentence="1">"WHAT DA HELL R U DONG IN MY OFICE!1"</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="9" sentence="2">I don't kno wut da fuk r u DOING</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="1" sentence="1">"Oh sorry I wuz just looking around koz I thought it wuz class."</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="10" sentence="1">"Oh hi you guys."</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="10" sentence="1">"Wheres Satan?"</dialogue>
+   <dialogue handle="enoby" chapter="37" paragraph="12" sentence="1">"Ok I will see you guyz at da concert."</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="3" sentence="1">"Lol, I totally decided not 2 comit suicide when I herd Hilena."</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="3" sentence="2">"...Hey Satan do u know da cure 4 when ppl r adikted 2 Volxemortseruem?"</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="12" sentence="1">"Fuk u!11"</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="15" sentence="1">"I'm a vampire."</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="17" sentence="1">"Yah siriusly."</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="22" sentence="1">"Wel if u wonted honesty datz all u had 2 say!1111"</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="22" sentence="5">"I'M NUT OKAY!1"</dialogue>
+   <dialogue handle="snap" chapter="38" paragraph="26" sentence="1">"U guys are such prepz!11"</dialogue>
+   <dialogue handle="snap" chapter="38" paragraph="26" sentence="1">"Cum on it wuz a mistake!1"</dialogue>
+   <dialogue handle="enoby" chapter="38" paragraph="29" sentence="1">"U guys stop!11"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="4" sentence="2">"I'm sorry. It's something I had to do, to fufill my duty as the noble gothic Mary Sue."</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="6" sentence="1">"I love you two. I'll...I'll see you in hell."</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="22" sentence="1">"THIS IS UNLOGICAL AND DOES NOT MAKE ANY SENSE!"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="25" sentence="1">"Oh mi satan wut happened!"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="26" sentence="1">"Get the fuk out u fucking bastard!11"</dialogue>
+   <dialogue handle="vloxemort" chapter="39" paragraph="27" sentence="1">"Thou hath nut killd Vampire yet!11"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="28" sentence="1">"Volxemort? OMFG what's wrong!111"</dialogue>
+   <dialogue handle="vampire" chapter="39" paragraph="30" sentence="1">"OMFG Enoby ur alive!111"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="31" sentence="1">"What the fuk happened?"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="31" sentence="2">"Oh my satan!11 Am I lik dead now?"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="34" sentence="1">"OMG I cant beleve Vampirz' dad shot u!1"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="38" sentence="1">"Hey haz aneone fuking seen Draco?"</dialogue>
+   <dialogue handle="vampire" chapter="39" paragraph="42" sentence="1">"We can go c Hose of Wax wif Draco!1"</dialogue>
+   <dialogue handle="bloody" chapter="39" paragraph="43" sentence="1">"Letz go lizzen 2 GC and kut ourselvz 666!11"</dialogue>
+   <dialogue handle="enoby" chapter="39" paragraph="44" sentence="1">"U fucking prep!11"</dialogue>
+   <dialogue handle="vampire" chapter="39" paragraph="44" sentence="1">"U fucking prep!11"</dialogue>
+   <dialogue handle="bloody" chapter="39" paragraph="44" sentence="1">"U fucking prep!11"</dialogue>
+   <dialogue handle="vampire" chapter="39" paragraph="45" sentence="1">"Yah u betrayed us!111"</dialogue>
+   <dialogue handle="draco" chapter="39" paragraph="46" sentence="1">"No u don't understand!1"</dialogue>
+   <dialogue handle="draco" chapter="39" paragraph="48" sentence="1">"Enoby no!11111"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="2" sentence="1">"Oh mi satan wut happened!"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="3" sentence="1">"Get the fuk out u fucking bastard!11"</dialogue>
+   <dialogue handle="vloxemort" chapter="40" paragraph="4" sentence="1">"Thou hath nut killd Vampire yet!11"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="5" sentence="1">"Volxemort? OMFG what's wrong!111"</dialogue>
+   <dialogue handle="vampire" chapter="40" paragraph="7" sentence="1">"OMFG Enoby ur alive!111"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="8" sentence="1">"What the fuk happened?"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="8" sentence="2">"Oh my satan!11 Am I lik dead now?"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="11" sentence="1">"OMG I cant beleve Vampirz' dad shot u!1"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="15" sentence="1">"Hey haz aneone fuking seen Draco?"</dialogue>
+   <dialogue handle="vampire" chapter="40" paragraph="19" sentence="1">"We can go c Hose of Wax wif Draco!1"</dialogue>
+   <dialogue handle="bloody" chapter="40" paragraph="20" sentence="1">"Letz go lizzen 2 GC and kut ourselvz 666!11"</dialogue>
+   <dialogue handle="enoby" chapter="40" paragraph="21" sentence="1">"U fucking prep!11"</dialogue>
+   <dialogue handle="vampire" chapter="40" paragraph="21" sentence="1">"U fucking prep!11"</dialogue>
+   <dialogue handle="bloody" chapter="40" paragraph="21" sentence="1">"U fucking prep!11"</dialogue>
+   <dialogue handle="vampire" chapter="40" paragraph="22" sentence="1">"Yah u betrayed us!111"</dialogue>
+   <dialogue handle="draco" chapter="40" paragraph="23" sentence="1">"No u don't understand!1"</dialogue>
+   <dialogue handle="draco" chapter="40" paragraph="25" sentence="1">"Enoby no!11111"</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="2" sentence="1">"OMFG! Im back in Tim again!111"</dialogue>
+   <dialogue handle="vloxemort" chapter="41" paragraph="3" sentence="1">"OMFG Enoby r u ok."</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="4" sentence="1">"Yah Im okay 4 ur in4mation."</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="4" sentence="2">"OMG am I dedd?"</dialogue>
+   <dialogue handle="vloxemort" chapter="41" paragraph="6" sentence="1">"No ur not dead."</dialogue>
+   <dialogue handle="vloxemort" chapter="41" paragraph="6" sentence="2">"Ur a vampire so u kant die frum a bullet. Cum on now lets go c how Hairy's dad is doing."</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="7" sentence="2">"WTF! James almust shot Luciious!"</dialogue>
+   <dialogue handle="vloxemort" chapter="41" paragraph="8" sentence="1">"Yah I know but he had a headache he wz under a lot of stress."</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="9" sentence="1">"I guess that's ok."</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="10" sentence="1">"Who da fuck is that?"</dialogue>
+   <dialogue handle="vloxemort" chapter="41" paragraph="11" sentence="1">"Dis is...Hedwig!!!!!!!!!11"</dialogue>
+   <dialogue handle="vloxemort" chapter="41" paragraph="11" sentence="2">"He used to be in XBlackXTearX 2 but he had 2 dropp out koz he broke his arm.</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="12" sentence="1">"Hey Hedwig."</dialogue>
+   <dialogue handle="vloxemort" chapter="41" paragraph="15" sentence="1">"Dat was Hedwig. He used 2 b my boifreind but we broke up."</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="16" sentence="1">"OMFG I can get u bak 2gether!"</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="17" sentence="1">"Ok u can 4get about ur class for now, Hedwig. Im going 2 show u something grate!1"</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="17" sentence="3">"Cum on u guys."</dialogue>
+   <dialogue handle="snap" chapter="41" paragraph="20" sentence="1">"Yah go fuck urself Samaro!"</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="21" sentence="1">"B quiet u guys."</dialogue>
+   <dialogue handle="enoby" chapter="41" paragraph="21" sentence="5">"OK Satan and Hedwig, u guys can start making out."</dialogue>
+   <dialogue handle="dumblydore" chapter="42" paragraph="2" sentence="1">"What da hell is this anyway?"</dialogue>
+   <dialogue handle="dumblydore" chapter="42" paragraph="5" sentence="1">"Be quiet you Satanists."</dialogue>
+   <dialogue handle="dumblydore" chapter="42" paragraph="5" sentence="2">"If ur lucky I'll probably send u all to Akazaban! That will teach u to copolate in da Great Hall."</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="6" sentence="1">"You fucking poser."</dialogue>
+   <dialogue handle="snap" chapter="42" paragraph="9" sentence="1">"Yeah shut up!"</dialogue>
+   <dialogue handle="dumblydore" chapter="42" paragraph="11" sentence="1">"I've had enough of u Satanists in my school!"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="12" sentence="2">"Evry1! Jump in b4 itz 2 l8!</dialogue>
+   <dialogue handle="dumblydore" chapter="42" paragraph="13" sentence="1">"You dunderheads!1111111111"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="16" sentence="1">"Dis is da future. Dumbeldore's iPod dat he tried to take away from me wuz really also a tim machine."</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="18" sentence="1">"It's somefing u use 2 lizzen 2 music."</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="20" sentence="1">"Um I guezz sand?"</dialogue>
+   <dialogue handle="bloody" chapter="42" paragraph="26" sentence="1">"Hey whose that, Ibony?"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="27" sentence="1">"Oh its Satan."</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="29" sentence="1">"Are you okay Satan?"</dialogue>
+   <dialogue handle="bloody" chapter="42" paragraph="29" sentence="1">"Are you okay Satan?"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="31" sentence="1">"No I still like you."</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="33" sentence="1">"Oh my fucking god, where's Draco!111 How did Snap get back here! I tohot he wuz in Azerbaijan."</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="35" sentence="1">"That bitch!11 Did she also free Hargrid and Loopin?"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="37" sentence="1">"OK. But where's Dracko? How cum he was doing it with Snap?"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="39" sentence="1">"OMG dat's terrible!"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="39" sentence="3">"Lizzen evry1, I have sumthing imptent to do. in hr evry1 stay Everyone stay in here !"</dialogue>
+   <dialogue handle="bloody" chapter="42" paragraph="40" sentence="1">"Good luck Tara!11"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="42" sentence="1">"You fucking bitch!111"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="45" sentence="1">"No!1 Help me!1 Please!1"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="46" sentence="6">"OMG Vampira!111"</dialogue>
+   <dialogue handle="vampire" chapter="42" paragraph="47" sentence="6">"I wus so worried you died!"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="48" sentence="1">"I know but Im a vampire lol.</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="49" sentence="1">"Where's Draco?"</dialogue>
+   <dialogue handle="vampire" chapter="42" paragraph="50" sentence="1">"Draco? You mean that fukking poser who betroyed you?"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="51" sentence="1">"I NO BUT WE HAV 2 FIND HIM."</dialogue>
+   <dialogue handle="vampire" chapter="42" paragraph="52" sentence="1">"I'll do it den."</dialogue>
+   <dialogue handle="vampire" chapter="42" paragraph="54" sentence="1">"Oh my fucking satan!"</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="55" sentence="1">"I fink Voldimort has arrivd."</dialogue>
+   <dialogue handle="enoby" chapter="42" paragraph="55" sentence="2">"Fuck, I have to find Draco!1 I guess we shood separate."</dialogue>
+   <dialogue handle="draco" chapter="43" paragraph="2" sentence="1">"Draco are you okay?"</dialogue>
+   <dialogue handle="draco" chapter="43" paragraph="3" sentence="1">"I'm not okay."</dialogue>
+   <dialogue handle="enoby" chapter="43" paragraph="4" sentence="1">"Oh Draco why did you do it with that fucking bastard Snape?"</dialogue>
+   <dialogue handle="loopin" chapter="43" paragraph="6" sentence="1">"Im so glad we me and Snape Snape and I were freed."</dialogue>
+   <dialogue handle="enoby" chapter="43" paragraph="8" sentence="1">"Pop addelum!111"</dialogue>
+   <dialogue handle="enoby" chapter="43" paragraph="10" sentence="1">"You fukking perv."</dialogue>
+   <dialogue handle="enoby" chapter="43" paragraph="10" sentence="2">"Now u have 2 tell us where Voldimort is or I'm gong 2 torture u!"</dialogue>
+   <dialogue handle="loopin" chapter="43" paragraph="11" sentence="1">"I don't now where he is!1111"</dialogue>
+   <dialogue handle="vampire" chapter="43" paragraph="12" sentence="1">"Oh my satan, we were so worried about u guys!1"</dialogue>
+   <dialogue handle="enoby" chapter="43" paragraph="13" sentence="7">"Oh mi satan! Draco!"</dialogue>
+   <dialogue handle="enoby" chapter="43" paragraph="13" sentence="10">"Oh Vampire! Vampire!"</dialogue>
+   <dialogue handle="draco" chapter="44" paragraph="1" sentence="1">"Dat's mi car!"</dialogue>
+   <dialogue handle="snap" chapter="44" paragraph="2" sentence="1">"I shall free you Loopin but first you must help me kill these idiotic donderheads."</dialogue>
+   <dialogue handle="snap" chapter="44" paragraph="2" sentence="2">"Ebony Dark'ness Dementia Raven Way must be killed. Den the Dork Lord shall never die!"</dialogue>
+   <dialogue handle="draco" chapter="44" paragraph="3" sentence="1">"You fucking prep!"</dialogue>
+   <dialogue handle="draco" chapter="44" paragraph="3" sentence="3">"I forgot to tell u, Ebony. Snape made me do it with him. I didn't really have sexx him but he's a ropeist!"</dialogue>
+   <dialogue handle="vloxemort" chapter="44" paragraph="5" sentence="1">"I knew who thou were all along."</dialogue>
+   <dialogue handle="vloxemort" chapter="44" paragraph="5" sentence="2">"Now I shall kill thee all!"</dialogue>
+   <dialogue handle="vampire" chapter="44" paragraph="6" sentence="1">"No plz don't kill us!"</dialogue>
+   <dialogue handle="dumblydore" chapter="44" paragraph="7" sentence="1">"What is da meaning of dis?"</dialogue>
+   <dialogue handle="snap" chapter="44" paragraph="9" sentence="1">"The Dark Lord shall kill all of you. Then you must submit to him!"</dialogue>
+   <dialogue handle="enoby" chapter="44" paragraph="12" sentence="1">"Oh my fucking god!1"</dialogue>
+   <dialogue handle="vloxemort" chapter="44" paragraph="13" sentence="1">"If you kill me then deze cideos will be shown to everyone in the skull. Then u can be just like that goffik girl Paris Hillton."</dialogue>
+   <dialogue handle="enoby" chapter="44" paragraph="14" sentence="2">"FYI I hav da picter of u doing it with Loopin!11"</dialogue>
+   <dialogue handle="loopin" chapter="44" paragraph="15" sentence="1">"Whats she talking abott?"</dialogue>
+   <dialogue handle="vampire" chapter="44" paragraph="16" sentence="1">"I saw 2 she's gunna show evry1 da picter!111"</dialogue>
+   <dialogue handle="loopin" chapter="44" paragraph="17" sentence="1">"Shut up!111'"</dialogue>
+   <dialogue handle="vloxemort" chapter="44" paragraph="18" sentence="1">"Foolish ignoramuses!"</dialogue>
+   <dialogue handle="vloxemort" chapter="44" paragraph="18" sentence="2">"Thou shall all dye soon."</dialogue>
+   <dialogue handle="vampire" chapter="44" paragraph="19" sentence="1">"Think again you fucking muggle poser!1"</dialogue>
+   <dialogue handle="vloxemort" chapter="44" paragraph="21" sentence="1">"Acco Nevel's wand!11"</dialogue>
+   <dialogue handle="vloxemort" chapter="44" paragraph="21" sentence="2">"Now I shall kill thee all and Evony u will die!11111"</dialogue>
+   <dialogue handle="dumblydore" chapter="44" paragraph="23" sentence="1">"Save us Ebony!"</dialogue>
+   <dialogue handle="enoby" chapter="44" paragraph="25" sentence="1">"ABRA KEDABRA!11111"</dialogue>
+</dialogueList>

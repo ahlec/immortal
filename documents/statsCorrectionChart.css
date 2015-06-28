@@ -1,0 +1,92 @@
+* {
+    font-family : arial;
+}
+body {
+    background-color : #9AC0CD;
+}
+h1,
+h2 {
+    padding : 0px;
+    margin : 0px;
+    background-color : #B0E0E6;
+    cursor : pointer;
+}
+h1 {
+    font-size : 18px;
+}
+h2 {
+    font-size : 12px;
+}
+div.chapter
+{
+    border : 1px solid black;
+    padding : 3px;
+    margin : 5px 10px 5px 10px;
+    background-color : #E0EEEE;
+}
+div.chapterBody {
+    clear : right;
+}
+div.chapter.hidden div.chapterBody {
+    display : none;
+}
+div.chapter.hidden h1,
+div.chapter.hidden h2,
+div.chapter.hidden div.chapterInfo {
+    display : block;
+}
+div.chapter.hidden h2 span {
+    display : inline;
+}
+div.chapterInfo
+{
+    display : block;
+    float : right;
+    margin-right : 20px;
+}
+div.chapter div.chapterInfo div.counter,
+div.chapter.hidden div.chapterInfo div.counter
+{
+    float : right;
+    width : auto;
+    display : block-inline;
+    padding-left : 5px;
+    padding-right : 5px;
+    height : 35px;
+    text-align : center;
+    font-weight : bold;
+    cursor : default;
+    margin-left : 5px;
+    background-color : white;
+    border-radius : 10px;
+    border : 1px dashed black;
+}
+div.chapter div.chapterInfo div.counter div,
+div.chapter.hidden div.chapterInfo div.counter div
+{
+    font-size : 80%;
+    color : #5C5C5C;
+}
+img.pointOfContention
+{
+    cursor : help;
+
+}
+span.spellingMistake {
+    cursor : pointer;
+    font-weight : bold;
+    color : green;
+}
+span.redact
+{
+    border-bottom : 1px dotted #C76114;
+    color : #C76114;
+    cursor : e-resize;
+}
+span.redact.shown span.proposed,
+span.redact span.original {
+    display : none;
+}
+span.redact.shown span.original,
+span.redact span.proposed {
+    display : inline;

@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<post><user>janis</user><title><code>Text-align: justify</code></title><datetime>1323306322</datetime><body>Fixed a bunch of the spacing errors caused by my over-zealous application of <code>text-align: justify;</code>. Now text will only be justified if contained in a <code>p</code> element.</body><tags><tag>css</tag><tag>website-update</tag></tags><comments/></post>

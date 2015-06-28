@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websiteReference>
+    <characters>
+        <character handle="enoby" hasProfilePicture="yes"/>
+        <character handle="draco" hasProfilePicture="yes"/>
+        <character handle="hargrid" hasProfilePicture="yes"/>
+        <character handle="vampire" hasProfilePicture="yes" wikipediaLinkOverride="Harry Potter (character)" />
+        <character handle="dumblydore" hasProfilePicture="yes"/>
+        <character handle="mcgoogle" hasProfilePicture="yes"/>
+        <character handle="vloxemort" hasProfilePicture="yes"/>
+        <character handle="loopin" hasProfilePicture="yes"/>
+        <character handle="bloody" hasProfilePicture="yes"/>
+        <character handle="samaro" wikipediaLinkOverride="James Potter (character)"/>
+        <character handle="dobby" wikipediaLinkOverride="Dobby (Harry Potter)"/>
+        <character handle="snap" hasProfilePicture="yes"/>
+    </characters>
+    <references>
+        <reference handle="bringMeToLife" video="bringMeToLife.mp4" picture="bringMeToLife.jpg"/>
+    </references>
+</websiteReference>

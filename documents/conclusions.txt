@@ -1,0 +1,209 @@
+<!--<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Conclusions</title>
+    </head>
+    <body>-->
+        <h1>Where It All Began</h1>
+        <p>The Immortal project was initially conceived in a tiny college dorm room, when Jacob
+            remembered that he had a hard copy of the story in a binder. From there we began with
+            the idea that we would be able to perform textual analysis of the story to determine
+            whether or not it was a troll, and perform some form of authorship attribution on the
+            text - to determine who Tara Gillespie, the story's inscrutable author, was.</p>
+        <p>Pretty soon we realized that a) This story is obviously a troll and b) The Internet is
+            too vast of an ocean to possibly pinpoint the identity of a fanfiction's author. Our goal
+            transitioned into, how does Ms. Gillespie provoke so much response in her readers - what
+            made the story so infamous? Our markup became that which targeted elements of style as
+            well as elements of plot and character relations, as things we considered to be
+            importantly startling about the text.</p>
+        <h1>Markup Methodology</h1>
+        <p>The core, basic element in our text is the &lt;sp&gt; element, which describes a spelling
+            mistake and has an attribute for its intended value. The &lt;sp&gt; can contain no other
+            element. For any reader of the story, spelling mistakes are a huge part of what make the
+            story so laughable. But there are many other lexical and plot devices that contribute
+            equally to the mood of the story. In the process of working, we developed tags for
+            grammar mistakes, omitted content (including any kind of word or punctuation), excess
+            content (to be removed), and rearrangement of text (for logical purposes).</p>
+        <p>The reasons for the lexical mark-up are relatively self-explanatory. But our other tags
+            may not be. We marked up characters, dialogue, and sex, all for purposes of detecting
+            the occurrences of characters in relation to the plot, relationships between characters,
+            and what other contributions they made to the story as a whole. A significant factor in
+            Gillespie's success at provoking reader response is the interactions between her
+            characters, and their existence as characters in the original Harry Potter story, or
+            other stories. For example, Tom Satan Bombadil has his origins in The Lord of The Rings
+            series, and Morty McFly originates from the Back to The Future movies. These characters
+            are themselves external references, but we also developed a tag for external references
+            to look at what kinds of popular culture Gillespie was trying to draw upon.</p>
+        <h1>Observations</h1>
+        <p>One of the most important factors in our observations is that at the time My Immortal was
+            written, fans could write reviews of the story that were publicly posted on the website.
+            Since Gillespie includes author's notes at the beginning of every chapter, and almost
+            always mentions the act of reviewing, we can infer that her writing will react in
+            sympathy to the reactions of her viewers. Following is a list of some of the
+            observations we've had as a result of markup using specific elements and their
+            attributes.</p>
+        <h2>&lt;sp&gt;, &lt;grammar&gt;, &lt;omitted&gt;, &lt;remove&gt;, &lt;redact&gt;</h2>
+        <p>Spelling mistakes are by far the most common and abused elements of the story. Although
+            occasionally Tara exploits poor grammar within the story, for the most part her
+            sentences are well formed and relatively complex in structure. This contrast between
+            Tara's grammatical talent and lexical disability makes the reader aware that the author
+            is capable of writing well, but unwilling to do so. This is a key element in any troll,
+            but pulled off very well in this story. Along the same derivation of thought we can look
+            at Tara's use of words we labeled "malapropers": a word used in place of one that would
+            fit logically in the same position in the text, and that very similarly resembles it.
+            These are often homophones (which we made a separate tag for), but not necessarily. The
+            most provoking uses of malapropers are when the author will use what some may call a
+            "big word," some rare part of the English vocabulary rarely encountered except for in
+            rich prose, and use it in place of a common word. The reader is immediately surprised by
+            the complexity of the word used, especially if it approaches making sense in the given
+            context, and then perturbed by the irony that the author has a wealth of knowledge about
+            the English language and chooses not to employ it, except for in a facetious manner. The
+            following is a good example of this type of creative word
+choice:</p><p><blockquote>"I have to
+                tell you the fucking <span style="font-style:italic">perdition</span>."</blockquote>
+           <p>Here, perdition, meaning eternal damnation of the soul, fits well into the gothic,
+            vampiric, suicidal and other tropes of the story, but is not actually intended to be
+            said in its context. The sentence was spoken dialogue by Professor Trevolry, who was
+            instead telling a prediction, not a perdition. A few lines later, this becomes even more
+            (or perhaps less) clear, as Trevolry looks into a <span style="font-style:italic"
+                >crucible</span> (crystal) ball to make said
+                >prediction.</p><blockquote>"She started to
+                look into a black <span style="font-style:italic">crucible</span>
+                ball."</blockquote><p>While the ball could be described as crucible, the reader can
+            smell the fishy appearance of these sorts of words. One interesting observation that was
+            quickly made by viewing the chart representing spelling mistakes 'By Chapter,' is that
+            malapropers, after having little to no usage, suddenly appear in the text about halfway
+            through, at chapter 26. We can gauge that Tara might have responded to interaction with
+            her fans writing reviews on the story. Fans, having a tendency to comment on the most
+            outrageous, likely would have commented on the instigating nature of her earlier uses of
+            malapropers, and inspired her to actively use them as a form of spelling mistake.</p>
+        <p>Simple quantitative information we were able to generate using digital tools provides
+            shocking evidence of the author's efforts at inciting an emotional response from her
+            readers. In total, there were approximaly 5,200 spelling mistakes in My Immortal,
+            accompanied by nearly 700 grammar mistakes (and more, when accounting for our insertion
+            of punctuation which were not tagged as grammatical errors). An impressive number of
+            these occurred in chapters 41 and 42, easily the longest chapters in the story,
+            something also readily observable in the 'By Chapter' graph.</p>
+        <p>Using our graphs in combination allows for some new insight on Gillespie's trolling
+            methodologies and could possibly clear up confusion about certain outliers. Anomilies in
+            chapter-by-chapter spelling count can be dissected in the 'By Sentence' graph upon
+            selection of the respective chapter. Also, seeing the most commonly used mistake in a
+            given chapter (the tallest bar in the 'By Chapter' graph), the occurrence of this
+            mistake can be followed in the sentence-by-sentence graph more closely.</p>
+        <p>The &lt;remove&gt;, &lt;redact&gt;, and &lt;omitted&gt; tags are all used for editorial
+            purposes; to make the revised version of the story less nonsensical and more
+            grammatically correct, we devised these methods of rearranging words, removing extra
+            content, and inserting clearly missing elements of the text. Much of what we ended up
+            removing were extra words jutting into the logic of a sentence, and the most commonly
+            inserted items were commas and quotation marks, due to the frequent absence of
+            organizational punctuation.</p>
+        <h2>&lt;char&gt;, &lt;dialogue&gt;</h2><p>There are 35 unique characters in "My Immortal,"
+            but the balance between the prevalence of characters is highly skewed. Of the 5,580
+            total mentions of characters &ndash; either as passing references, character dialogues,
+            pronouns, or what have you &ndash; 2,021 of those are by/of Ebony alone; Draco Malfoy
+            comes in second with 792 occurrences. This startling difference between the two most
+            prevalent features of any kind in the story is made more significant when noted that
+            Ebony appears in all 44 chapters of the story, but Draco appears in 41 out of the 44.
+            Although the story is told in first person, which should be taken into account when
+            comparing these two figures, the sheer imbalance of the characters throughout the story
+            is still inexcusable.</p>
+        <p>Furthermore, there are 761 instances of dialogue in the story, with approximately 300 of
+            those spoken by Ebony. Draco Malfoy, the second most vocal character, follows with 78
+            instances. As for length of quotes, only 489 of the 761 instances of dialogue in the
+            story are longer than one word. No character speaks more than Ebony, and in reading the
+            story, it is easily apparent without actual consideration. But due to the prevalence
+            of... Ebony, for lack of a better portrayal... and due to the nature of first-person
+            stories in general, most of the story itself takes places outside the extraneous
+            dialogue of the story.</p>
+        <h2>&lt;ref&gt;</h2>
+        <p>Tara uses references extensively throughout the story, with almost 1000 references made
+            in total and over 100 unique references, excluding those characters like Tom Satan
+            Bombadil and Marty McFly. Including these two, the count rises beyond 1000. Obviously,
+            Tara's use of references in the story is significant.</p>
+        <p>Many of these references relate to the gothic, satanic and other tropes mentioned earlier
+            in regard to malapropers. These tropes have been something very commonly mocked on the
+            internet, even since the time of this story's creation - if one thinks of the stigma
+            associated with the vampiristic Twilight series, they can get a picture of what is being
+            mocked here. By exaggerating an obsession with figures in goth, punk, satanistic, and
+            other communities in the real world, Tara instills anger in members of them, and humor
+            in those who mock them. For example, the reference Gerard Way, lead singer of My
+            Chemical Romance, is a favorite of the main character Ebony, and already appears in the
+            first chapter.</p>
+        <blockquote>"I'm not related to <span style="font-style:italic">Gerard Way</span>, but I
+            wish I was because he's a major fucking hottie."</blockquote>
+        <p>Other references simply relate back to the original story of Harry Potter, but obliterate
+            any contextual basis of referencing them. Objects like horcruxes, the time turner,
+            various potions and spells, and plenty of settings taken from the story are all stripped
+            of their contextual value and transformed into 'goffikally' endowed, Gillespian
+            entitities.</p>
+        <h2>&lt;sex&gt;, &lt;kiss&gt;</h2>
+        <p>Despite the seeming prevalence of sex and kissing throughout the story, there are
+            (relative to the story as a whole) few actual instances of sex or kissing. When there
+            are, the tags &lt;sex&gt; and &lt;kiss&gt; respectively are used, to denote the action.
+            The placement of these elements is rather fluid, as the act of kissing or of sex has the
+            capability of being contained in a single sentence, or over the course of multiple
+            paragraphs. In part because of the portrayed nature of Tara's bisexuals, and also
+            because of her nigh-erotica usage of sexual acts to further plot points, sex and kissing
+            can occur between any two or more characters. The three most frequent couplings to occur
+            (or be mentioned), however, would be Ebony/Draco, Draco/Vampire, and Ebony/Vampire. This
+            actual love triangle becomes the sole focus of the plot for a decent portion of the
+            story as a whole.</p>
+        <p> The use of &lt;sex&gt; and &lt;kiss&gt; has the ability to explicitly denote
+            interactions and relations (because those two are not the same thing in this story)
+            between two (again, or more) characters. But because it requires the actual act of sex
+            or kissing to be taking place, it has a limitation that it cannot be used to denote
+            mentions of the act of sex or kissing &ndash; it does not have the ability to be used
+            when Ebony refers to "losing [her] virility to Draco." To remedy (not fully, but at
+            least capture these mentions), a reference for "havingSex" was created, and used any
+            time something sexual is mentioned. "havingSex" is used 37 times in the story, as
+            opposed to the 11 instances of explicit &lt;sex&gt;. &lt;kiss&gt;ing occurs 23 times.
+            But in the way the story is written, these numbers seem significantly below the
+            expected.</p>
+        <h2>&lt;attire&gt;</h2>
+        <p>Articles of clothing are extensively described in this story, which we've tracked with
+            &lt;attire&gt;. These come in a small number of colors and include a large number of
+            band t-shirts. Chapters include on average around 6 articles of clothing, and one
+            chapter has an outstanding 35 mentions of attire. Typically a character's entire outfit
+            will be described, but these outfits generally have little coordination and would be
+            quite the sight to see.</p><blockquote>Anyway when I got better I went upstairs and put on
+                a black leather minidress that was all ripped on the ends with lace on it. There was
+                some corset stuff on the front. Then I put on black fishnets and black high-heeled
+                boots with pictures of Billie Joe Armstrong on them. I put my hair all out around me
+                so I looked like Samara from the Ring (if u don't know who she iz ur a prep so fuk
+                off!) and I put on blood-red lipstick, black eyeliner and black lip
+                gloss.</blockquote><p>Here Tara combines unlikely elements <span
+                style="font-style:italic;">black leather</span> and <span style="font-style:italic;"
+                >lace</span> and includes references to <span style="font-style:italic">Billie Joe
+                Armstrong</span> and <span style="font-style:italic">Samara</span> to bombard the
+            reader's imagination. Tara frequently references outfits having <span
+                style="font-style:italic;">corset stuff</span>, although she never describes what
+            exactly this entails. Clothes are frequently made of unlikely materials, for instance
+            once Enoby is mentioned wearing a leather bra, and there are a few instances of fishnets
+            made of leather. Throughout the story, there are a total of 249 articles of clothing,
+            112 of which are Ebony's. Yet some of the most entertaining images are of the other
+            characters.</p><blockquote> She was weaving a ripped gothic black dress with ripped stuff
+                all over it and a lace-up top thing and black pointy boots. So were Crab and
+                Goyle.</blockquote><p>By implying that Crab and Goyle are wearing dresses, Tara trolls
+            the reader quite effectively.</p>
+        <h1>Conclusions</h1>
+        <p>The combination of the elements discussed above create the unique character of this story
+            which makes it so inflammatory. The beginning chapters are relatively benign, consisting
+            of less than 10 percent errors. As the story progresses, however, the errors become more
+            prevalent and make up a more significant portion of each chapter. Chapter 38, for
+            example, is 45% errors. Yet, when these are corrected, the story remains a troll. The
+            extensive use of references, the ridiculous sexual and romantic relations, and the
+            bizarre character names remain to antagonize the reader. It is thus the content itself,
+            compounded by the poor spelling and grammar, which create such a response in readers
+            from all backgrounds.</p>
+        <p>Supporting our previous assertion that Tara adjusts her writing style in response to
+            reviews received, we can see there is a fairly steady increase in the number of
+            references used in each chapter, one chapter containing as many as 79 references spread
+            over only 81 sentences. Such a high concentration of content which is irrelevant to the
+            world of Harry Potter is remarkable. Part of what makes fanfiction appealing is its
+            expansion of a particular fandom's (such as Harry Potter's) universe beyond the base
+            work. So by largely ignoring this in favor of real world bands like My Chemical Romance
+            and Good Charlotte serves as a slap in the face to readers. Tara exploits this to the
+            fullest with her extensive use of external referencing in "My Immortal."</p>
+<!--    </body>
+</html>
+-->

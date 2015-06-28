@@ -1,0 +1,479 @@
+start = element troll { meta, story }
+
+## 
+##       Meta Elements       ####
+##
+meta =
+    element meta {
+        element title { text },
+        element author {
+            attribute screenName { xsd:string },
+            text
+        },
+        element editors { editor, editor, editor },
+        element characterList { metaCharacter+ },
+        element referenceList { metaReference+ },
+        element locationList { metaLocation+ },
+        element spellList {
+            element spellDefinition {
+                attribute handle { xsd:ID },
+                hp?,
+                text
+            }+
+        }
+    }
+editor =
+    element editor {
+        attribute handle { xsd:ID },
+        text
+    }
+# character - (meta) Character definition
+
+##            Attributes:
+##                handle (text) - a unique handle for this character, to reference this character in the story
+##                gender ("m"|"f") - gender
+##         Value: Character's full name
+metaCharacter =
+    element character {
+        attribute handle { xsd:ID },
+        (hp? | (canon, series)?),
+        attribute gender { "m" | "f" }?,
+        attribute type { "student" | "professor" | "group" | "bystander" | "baddie" }?,
+        xsd:string
+    }
+handle = attribute handle { xsd:IDREFS }
+hp = attribute hp { xsd:string }
+canon = attribute canon { xsd:string }
+series = attribute series { xsd:string }
+refParent = attribute parent { xsd:IDREF }
+metaReference =
+    element reference {
+        attribute handle { xsd:ID },
+        attribute type { xsd:string },
+        refParent?,
+        series?,
+        text
+    }
+metaLocation =
+    element location {
+        attribute handle { xsd:ID },
+        hp?,
+        refParent?,
+        attribute presentDay { xsd:IDREF }?,
+        xsd:string
+    }
+
+## 
+##       Story Elements       ####
+##
+story = element story { chapter+ }
+chapter =
+    element chapter {
+        attribute number { xsd:int },
+        ((attribute editor { "Janis" | "Eric" | "Jacob" },
+        mergeHandles*,
+          element title {
+              mixed { (ref | sp | grammarMistake)* }
+          }?,
+          an,
+          (paragraph+ & an* & separation+ & kiss* & sex* & pointOfView*))
+         | (paragraph | an)+)
+    }
+paragraph = element paragraph { (sentence | an | kiss | sex)+ }
+sex =
+    element sex {
+        handle,
+        attribute voyeur { xsd:IDREFS }?,
+        attribute type {
+            list { ("attempt" | "rape" | "masturbation" | "frottage")+ }
+        }?,
+        mixed {
+            (an
+             | grammarMistake
+             | sp
+             | poc
+             | ref
+             | char
+             | aside
+             | place
+             | dialogue
+             | spell
+             | remove
+             | redact
+             | paragraph
+             | sentence
+             | kiss)+
+        }
+    }
+kiss =
+    element kiss {
+        handle,
+        mixed {
+            (an
+             | grammarMistake
+             | poc
+             | sp
+             | ref
+             | char
+             | aside
+             | place
+             | dialogue
+             | spell
+             | remove
+             | redact
+             | sentence)+,
+            attribute type { text }?
+        }
+    }
+sentence =
+    element sentence {
+        attribute type {
+            "simple" | "compound" | "complex" | "compound complex" | "runon" | "fragment"
+        }?,
+        mixed {
+            (an
+             | sp
+             | dialogue
+             | omitted
+             | ref
+             | char
+             | paradox
+             | aside
+             | grammarMistake
+             | lyrics
+             | place
+             | fourthWallBreak
+             | remove
+             | redact
+             | spell
+             | dialogue
+             | speakingVerbPhrase
+             | sex
+             | kiss
+             | poc
+             | attire)*
+        }
+    }
+an =
+    element an {
+        mixed {
+            (aside | sp | ref | char | omitted | grammarMistake | poc | redact | remove | place)*
+        }
+    }
+aside =
+    element aside {
+        handle?,
+        mixed {
+            (aside
+             | sp
+             | ref
+             | grammarMistake
+             | char
+             | fourthWallBreak
+             | omitted
+             | place
+             | redact
+             | attire
+             | remove
+             | poc)*
+        }
+    }
+
+## 
+## Sentence Markup Elements ####
+##
+# sp - Spelling Mistakes
+##     Attributes: indended (text) - the intended word
+sp =
+    element sp {
+        attribute intended { text },
+        attribute type {
+            list {
+                ("phonetic"
+                 | "keyboarding"
+                 | "goffik"
+                 | "metathesis"
+                 | "hyperbole"
+                 | "apocope"
+                 | "chatspeak"
+                 | "homophone"
+                 | "malaproper"
+                 | "???"
+                 | "syncope"
+                 | "epenthesis"
+                 | "apheresis"
+                 | "canon")+
+            }
+        },
+        mixed { (sp | spaceContainer)* }
+    }
+fourthWallBreak =
+    element fwb {
+        mixed { (an | char | ref | sp | omitted | grammarMistake)* }
+    }
+dialogue =
+    element dialogue {
+        handle,
+        mixed {
+            (an
+             | sp
+             | ref
+             | char
+             | place
+             | spell
+             | grammarMistake
+             | omitted
+             | aside
+             | redact
+             | remove
+             | poc
+             | paradox
+             | fourthWallBreak
+             | lyrics
+             | attire)*
+        }
+    }
+char =
+    element char {
+        (handle
+         | (handle
+            & attribute type { text }
+            & attribute person { "1" | "2" | "3" })),
+        mixed { (grammarMistake | sp | omitted | ref | remove)* }
+    }
+ref =
+    element ref {
+        handle,
+        mixed { (sp | char | ref | grammarMistake | spell | attire | omitted | poc | redact | remove)* }
+    }
+omitted =
+    element omitted {
+        attribute content { text }
+        | mixed { char* }
+    }
+paradox =
+    element paradox {
+        mixed {
+            (sp
+             | omitted
+             | char
+             | ref
+             | grammarMistake
+             | speakingVerbPhraseVerb
+             | speakingVerbPhraseModifier
+             | dialogue 
+             | speakingVerbPhrase
+             | remove)*
+        }
+    }
+grammarMistake =
+    element grammar {
+        attribute intended { text },
+        attribute type {
+            list {
+                ("caps"
+                 | "apostrophe"
+                 | "punctuation"
+                 | "derivation"
+                 | "subjunctive"
+                 | "stylistic"
+                 | "inflection")+
+            }
+        },
+        mixed { (sp | grammarMistake | char)* }
+    }
+lyrics = element lyrics {handle, mixed { (sp | grammarMistake | redact | omitted | remove | ref)* } }
+place =
+    element place {
+        handle,
+        mixed { (aside | sp | remove | char | grammarMistake | omitted | ref)* }
+    }
+spell =
+    element spell {
+        handle,
+        attribute character { xsd:IDREFS },
+        mixed { (aside | sp)* }
+    }
+separation =
+    element separation {
+        xsd:string { pattern = "[X6]*" }
+        | (attribute sic { xsd:boolean },
+           xsd:string)
+    }
+redact =
+    element redact {
+        element original {
+            mixed { (sp | char | omitted | dialogue | grammarMistake | speakingVerbPhrase)* }
+        },
+        element proposed {
+            mixed { (char | ref | speakingVerbPhrase)* }
+        }
+    }
+remove =
+    element remove {
+        mixed { (sp | char | ref | omitted | grammarMistake | spaceContainer)* }
+    }
+poc = element poc { text }
+speakingVerbPhrase =
+    element speakingVP {
+        mixed {
+            (paradox | (speakingVerbPhraseVerb & speakingVerbPhraseModifier?))
+            & (char|ref)+
+            & poc*
+        }
+    }
+speakingVerbPhraseVerb =
+    (element verb {
+         mixed { (sp | grammarMistake | redact | remove)* }
+     }
+     | redact | omitted)*
+speakingVerbPhraseModifier =
+    element modifier {
+        mixed { (sp | grammarMistake | char | remove | omitted | redact | ref)* }
+    }
+pointOfView =
+    element pointOfView {
+        handle,
+        attribute partOfSpeech { "1" | "2" | "3" }?,
+        (an | poc | paragraph)+
+    }
+attire =
+    element attire {
+        handle,
+        attribute type {
+            "t-shirt"
+            | "top"
+            | "jacket"
+            | "outfit"
+            | "shirt"
+            | "skirt"
+            | "miniskirt"
+            | "minidress"
+            | "jeans"
+            | "shoes"
+            | "boots"
+            | "earrings"
+            | "dress"
+            | "corset"
+            | "handkerchief"
+            | "necklace"
+            | "leggings"
+            | "suit"
+            | "skin"
+            | "hair"
+            | "contacts"
+            | "eyes"
+            | "tie"
+            | "corsetBra"
+            | "thong"
+            | "nail"
+            | "eyeliner"
+            | "eyeshadow"
+            | "nightgown"
+            | "bra"
+            | "makeup"
+            | "highHeels"
+            | "lipgloss"
+            | "lipstick"
+            | "foundation"
+            | "belt"
+            | "pants"
+            | "bellyRing"
+            | "pajamas"
+            | "polo"
+            | "bag"
+            | "robe"
+            | "invisibilityCloak"
+            | "wand"
+            | "skaterPants"
+            | "armwarmers"
+        }*,
+        # corset tops are of type corset
+        # top is female, shirt is male, following the conventions of Tara's storytelling
+        attribute material { "leather" | "plaid" | "denim" | "fishnet" | "lace"}*,
+        attribute ornament {
+            "corsetStuff"
+            | "stuff"
+            | "lace"
+            | "goffik"
+            | "crosses"
+            | "pentagram"
+            | "skulls"
+            | "satanist"
+            | "streaks"
+            | "stripes"
+            | "text"
+            | "tulle"
+            | "metal"
+            | "chains"
+            | "bloodyRoses"
+            | "diamonds"
+            | "seagull"
+            | "moose"
+            | "eagle"
+            | "flowers"
+        }?,
+        attribute ornamentColor {
+            list { ("black" | "pink" | "red" | "blue" | "white" | "purple")* }
+        }?,
+        attribute color {
+            list { ("black" | "pink" | "red" | "blue" | "white" | "gray" | "bleachBlond")* }
+        }?,
+        # Add colors as they occur in the text.
+        attribute descrip {
+            list {
+                (("baggy"
+                  | "bottomLace"
+                  | "pale"
+                  | "mini"
+                  | "tight"
+                  | "short"
+                  | "slit"
+                  | "big"
+                  | "tiny"
+                  | "ripped"
+                  | "messy"
+                  | "poofy"
+                  | "spiky"
+                  | "converse"
+                  | "heels"
+                  | "stilettos"
+                  | "666"
+                  | "gothic"
+                  | "skull"
+                  | "bloody"
+                  | "platinum"
+                  | "low-cut"
+                  | "sexy"
+                  | "combat"
+                  | "mcr"
+                  | "gc"
+                  | "duff"
+                  | "pointy"
+                  | "slipknot"
+                  | "simplePlan"
+                  | "firstToLast"
+                  | "greenDay"
+                  | "warpedTour"
+                  | "linkinPark"
+                  | "band"
+                  | "destroyed" 
+                  | "tight"
+                  | "pretty" 
+                  | "satanistSigns"
+                  | "giant"
+                  | "heavy"
+                  | "abercrombie"
+                  | "jackson"
+                  | "panic")+)
+                # only use "band" if the specific band is not explicitly mentioned
+                
+            }
+        }*,
+        attribute count { xsd:int }?,
+        attribute text { xsd:string }?,
+        attribute length { "kneeLength" | "long" | "short" | "toEars" | "floorLength"}?,
+        mixed { (ref | sp | grammarMistake | redact | omitted | char | remove | paradox)* }
+    }
+spaceContainer = element space { text }
+mergeHandles = element mergeHandles { attribute handleA { xsd:IDREF }, attribute handleB { xsd:IDREF } }

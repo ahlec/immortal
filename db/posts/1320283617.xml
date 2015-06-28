@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<post><user>eric</user><title>Schema Update</title><datetime>1320283617</datetime><body>The regulation of the &lt;attire&gt; element has been changed in the schema to include @ornament and @ornamentColor - these account for extensively described articles of clothing.  Also, the value "tights" in the @type attribute has been altered to "leggings" to encompass a more relevant set of garb.</body><tags><tag>schema</tag><tag>attire</tag></tags><comments/></post>

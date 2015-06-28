@@ -1,0 +1,250 @@
+div.codexMenu
+{
+  background-color:#97436e;
+  border:1px solid black;
+  position:absolute;
+  left:100%;
+  width:150px;
+  top:0px;
+  display:none;
+}
+div.codexTop
+{
+  position:relative;
+  background-color:#97436e;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+div.codexTop:hover, div.codexSubmenu:hover
+{
+  color:#97436e;
+  background-color:white;
+}
+div.codexTop:hover > a, div.codexSubmenu:hover > a
+{
+  color:#97436e;
+}
+div.codexTop div.final
+{
+  width:250px;
+}
+div.codexTop > a
+{
+  /*margin-top:5px;
+  margin-bottom:5px;*/
+}
+div.codexTop a:hover
+{
+  color:#97436e;
+  background-color:white;
+  /*font-style:italic;*/
+}
+div.codexTop a
+{
+  position:relative;
+  display:block;
+  /*background-color: #97436e;*/
+  color: white;
+  border-top: 1px solid black;
+  border-bottom:1px solid black;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 5px;
+  padding-bottom:5px;
+  text-align: center;
+  font-weight: bold;
+}
+div.codexSubmenu { 
+  /*position:absolute;
+  left:0px;
+  top:0px;*/
+  float:left;
+  width:150px;
+  position:relative;
+  clear:both;
+  /*margin-top: -3px;
+  margin-bottom: -3px;*/
+}
+div.codexSubmenu a, div.codexMenu a
+{
+  width:150px;
+  display:block;
+  border-bottom:none;
+}
+div.codexMenu > div.codexSubmenu:first-child a:first-child,
+	div.codexMenu > div.codexSubmenu > div.codexMenu a:first-child,
+	div.codexTop > div.codexMenu > a:first-child
+{
+  border-top:none;
+}
+div.codexMenu > div.codexSubmenu:first-child > div.codexMenu
+{
+  top:-1px;
+}
+div.codexTop:hover > div.codexMenu, div.codexMenu:hover > div.codexMenu, div.codexSubmenu:hover > div.codexMenu
+{
+  display:block;
+}
+div.codexTop a
+{
+  background-image:url('/images/codexMenuDescend.png');
+  background-repeat:no-repeat;
+  background-position:125px 5px;
+  padding-right:23px;
+  padding-left:0px;
+  width:127px;
+}
+div.codexTop a.codexItem
+{
+  background-image:url('/images/codexItem.png');
+  background-repeat:no-repeat;
+  background-position: 5px 5px;
+  padding-left:23px;
+  padding-right:0px;
+  width:227px;
+}
+div.codexNavContainer div.codexDropButton
+{
+  text-align:center;
+  border:1px solid black;
+  border-radius:5px;
+  font-weight:bold;
+  background-color:#97436e;
+  color:white;
+  margin-left:5px;
+  margin-right:5px;
+  margin-top:5px;
+  cursor:pointer;
+}
+div.codexNavContainer.collapsed div.codexItem
+{
+  display:none;
+}
+div.codexItem
+{
+ /* margin-left:15px;
+  text-indent:-10px;
+  width*/
+}
+div.codexItem a
+{
+  color:#0099ff;
+}
+/*div.codexItem.selected a
+{
+  color:white;
+  font-style:italic;
+}*/
+div.codexTableContainer
+{
+  float:right;
+  width:250px;
+  margin:5px;
+}
+div.codexTableContainer table.codexTable
+{
+  background-color:#61616A;
+  border-radius:5px;
+  margin:5px;
+  margin-right:-75px;
+  width:325px;
+  font-size:90%;
+  padding:3px;
+  border:1px solid black;
+  text-align:left;
+}
+table.codexTable td.type
+{
+  text-align:center;
+  font-size:90%;
+  background-color:#8c8c95;
+}
+table.codexTable td.type a
+{
+  color:black;
+  text-transform:uppercase;
+}
+table.codexTable td.header
+{
+  text-align:center;
+  font-size:140%;
+  font-weight:bold;
+}
+table.codexTable td.picture { text-align:center; }
+table.codexTable td.picture img
+{
+  max-width:300px;
+}
+table.codexTable td.readLink
+{
+  text-align:center;
+  font-size:150%;
+}
+table.codexTable th
+{
+  vertical-align:top;
+  width:140px;
+  text-align:left;
+}
+table.codexTable td.separator
+{
+  border-bottom:1px solid gray;
+  margin-top:2px;
+  margin-bottom:2px;
+  height:1px;
+  max-height:1px;
+  overflow:hidden;
+}
+table.codexTable a.previousFrequency, table.codexTable a.nextFrequency
+{
+  display:block;
+  background-repeat:no-repeat;
+}
+div.codexTableOfContents
+{
+  border-radius:5px;
+  width:450px;
+  border:1px solid black;
+  background-color:#61616A;
+  margin-right:10px;
+  margin-bottom:10px;
+  padding:5px;
+}
+div.codexTableOfContents h1
+{
+  margin:0px;
+  padding:0px;
+  color:black;
+  text-align:center;
+  font-size:100%;
+  margin-bottom:5px;
+  text-decoration:underline;
+}
+div.codexTableOfContents a
+{
+  display:block;
+  padding-left:14px;
+  background:url('/images/bullet.png') no-repeat -2px 2px;
+}
+div.codexTableOfContents a:hover { color:white; }
+h2.codexHeader
+{
+  margin-top:15px;
+  border-bottom:1px solid white;
+  margin-bottom:3px;
+  clear:left;
+}
+h2.codexHeader a.top
+{
+  float:right;
+  font-size:70%;
+}
+h3.codexHeader
+{
+  margin-top:3px;
+  margin-bottom:3px;
+}
+span.caps
+{
+  text-transform:capitalize;
+}

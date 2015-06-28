@@ -1,0 +1,137 @@
+div.post
+{
+  /*border:1px solid white;*/
+  background-color:#61616a;
+  position:relative;
+  margin-bottom:10px;
+  margin-top:15px;
+  margin-left:45px;
+  min-height:100px;
+  *height:100px;
+  border-radius:4px;
+}
+div.post.comment
+{
+  margin-left:120px;
+  min-height:60px;
+  *height:60px;
+}
+div.post a.avatar
+{
+  position:absolute;
+  width:50px;
+  height:50px;
+  max-width:52px;
+  max-height:52px;
+  left:-45px;
+  top:5px;
+}
+div.post a.avatar img
+{
+  border:1px solid #333339;
+  max-width:52px;
+  max-height:52px;
+  width:50px;
+  height:50px;
+}
+div.post div.title
+{
+  border:1px solid #333339;
+  margin-top:3px;
+  margin-bottom:3px;
+  border-top-right-radius:4px;
+  background-color:#55555e;
+  padding:2px 2px 2px 10px;
+  font-weight:bold;
+  color:white;
+  font-size:110%;
+}
+div.post div.title a.action
+{
+  font-size:80%;
+  float:right;
+  margin-left:5px;
+}
+div.post div.title a.action:hover { text-decoration:underline; }
+div.post div.title span
+{
+  font-size:80%;
+  display:block;
+  font-weight:normal;
+}
+div.post div.postBody, div.post div.postTags
+{
+  margin:0px 3px 0px 13px;
+}
+div.postBody
+{
+  /*color:#66666A;*/
+  color:white;
+}
+div.post.comment textarea
+{
+  width:100%;
+  max-width:100%;
+  min-width:100%;
+  display:block;
+  margin-top:3px;
+}
+div.post div.postTags
+{
+  margin-top:5px;
+  padding-top:5px;
+  padding-bottom:5px;
+  /*border-top:1px solid white;*/
+}
+div.post div.postTags a.tag
+{
+  display:inline-block;
+  *display:inline;
+  margin-right:10px;
+  color:#00bfff;
+  white-space:nowrap;
+}
+div.postNavigation
+{
+  margin-top:5px;
+  margin-bottom:5px;
+}
+div.postNavigation *
+{
+  display:inline-block;
+  *display:inline;
+}
+div.postNavigation .previous { float:left; }
+div.postNavigation .next { float:right; }
+div.postNavigation strong
+{
+  display:block;
+  text-align:center;
+}
+a.navigationPostTag
+{
+  display:block;
+  font-size:90%;
+  margin-left:5px;
+  color:#00bfff;
+}
+a.navigationPostTag.selectedTag, div.post div.postTags a.tag.selectedTag
+{
+  font-weight:bold;
+  color:white;
+}
+a.postWritePostButton
+{
+  margin:auto; /* Errricc :3 */
+  width:100px;
+  background-color:#A52A2A;
+  border:1px solid black;
+  border-radius:5px;
+  text-align:center;
+  display:block;
+  color:black;
+}
+a.postWritePostButton:hover
+{
+  background-color:#F33;
+}

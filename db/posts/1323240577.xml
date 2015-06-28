@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<post><user>jacob</user><title>Posting Fix</title><datetime>1323240577</datetime><body>Fixed a problem with the posting system where certain conditions caused posts to not display under certain tags (for instance, <link page="posts/tagged/website-update/">#website update</link> displayed no posts, despite actually having 16 posts).</body><tags><tag>website update</tag><tag>bug fix</tag></tags><comments/></post>

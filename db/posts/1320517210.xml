@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<post><user>janis</user><title>Statistics</title><datetime>1320517210</datetime><body>About 8% of spelling errors are followed by an error of the same type. :O<br/>
+Assuming my XPath is correct, of course...<br/>
+<code>count(//sp[not(*)]) div count(//sp[@type eq following-sibling::sp[1]/@type])</code><br/>
+FWIW, it doesn't actually make a huge difference (less than 1%) whether or not you look only at sp elements that have no children.</body><tags><tag>xpath</tag><tag>statistics</tag><tag>sp</tag></tags><comments/></post>

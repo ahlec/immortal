@@ -1,0 +1,78 @@
+.dialogObject
+{
+  position:relative;
+  cursor:help;
+  white-space:nowrap;
+  color:#00bfff/*#0099ff*/;
+}
+.dialogObjectAlternate
+{
+  color:#8CD2FF;
+}
+.dialogCollat
+{
+  background-color:#6DC4FF;
+  color:white;
+  border-radius:3px;
+}
+.dialogTarget
+{
+  color:white;
+  position:relative;
+  z-index:1001;
+  background-color:#0099ff;
+  border-radius:3px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+}
+.dialogTarget .dialogObject { color:white; }
+div.dialogWindow
+{
+  text-align:left;
+  color:black;
+  border:1px solid #0099ff;
+  border-radius:5px;
+  border-top-left-radius:0px;
+  position:absolute;
+  padding:5px;
+  *width:300px;
+  min-width:300px;
+  overflow:auto;
+  background-color:white;
+  left:0px;
+  top:100%;
+  z-index:1000;
+  font-size:14px;
+}
+div.dialogWindow * { text-indent:0; }
+div.dialogWindow div.title
+{
+  text-decoration:underline;
+  margin-bottom:5px;
+  color:black;
+}
+div.dialogWindow div.identifyingHeader
+{
+  font-size:80%;
+  font-weight:bold;
+  font-family:courier,serif;
+}
+div.dialogWindow div.entry
+{
+  font-size:80%;
+  margin-left:10px;
+}
+div.dialogWindow div.entry span
+{
+  margin-left:5px;
+  color:#696969;
+}
+div.dialogWindow div.entry a
+{
+  text-transform:capitalize;
+  color:#0099ff;
+}
+div.dialogWindow div.entry.correction span
+{
+  color:#e02929;
+}

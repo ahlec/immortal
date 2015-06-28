@@ -1,0 +1,8 @@
+div.collapseContainer div.containerTitle
+{
+  cursor:pointer;
+  font-weight:bold;
+}
+div.collapseContainer.collapsed * { display:none; }
+div.collapseContainer.collapsed div.containerTitle { display:block; }
+div.collapseContainer.collapsed div.containerTitle a { display:inline; }

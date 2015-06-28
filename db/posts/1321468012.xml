@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<post><user>eric</user><title>Codex in the Workings</title><datetime>1321468012</datetime><body>  <overworked><br/><br/>
+We have developed an XSLT that retrieves the necessary data in XML form to compose the Codex's pages.  Now I am in the process of writing the XSLT to produce the body of the Codex's main page, after which the specific CSS will have to be written.<br/><br/>
+</overworked><br/>
+</body><tags><tag>codex</tag><tag>css</tag><tag>xslt</tag></tags><comments/></post>

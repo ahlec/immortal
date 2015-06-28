@@ -1,0 +1,10 @@
+ErrorDocument 403 /forbidden/
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?path=$1 [NC]
+
+php_value date.timezone America/New_York
+php_value display_errors 1
+php_value error_reporting 30711

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<post><user>jacob</user><title><code><sentence/></code> and <code><dialogue/></code></title><datetime>1321384086</datetime><body>In the markup thus far, sometimes we have situations where we have something like:<br/>
+<br/>
+<code><br/>
+<sentence><dialogue>"Hello."</dialogue> said Satan.</sentence><br/>
+<sentence><dialogue>"How are you?"</dialogue>.</sentence><br/>
+</code><br/>
+<br/>
+According to English grammar, this can be one sentence, like so:<br/>
+<br/>
+<code><br/>
+<sentence><dialogue>"Hello."</dialogue> said Satan. <dialogue>"How are you?"</dialogue>.</sentence><br/>
+</code><br/>
+<br/>
+In our document, we have both, and inconsistently. I feel like we need to choose one or the other, and then make sure everything is standard through our document. Your comments?</body><tags><tag>standardization</tag><tag>immortal.xml</tag><tag>dialogue</tag><tag>sentence</tag></tags><comments><comment handle="janis" datetime="1321468881">I think I prefer the second way.</comment><comment handle="eric" datetime="1321563085">But they are two sentences... unless the dialogue is split by a comma and a speakingVP and then restarts with a conjunction.</comment></comments></post>
